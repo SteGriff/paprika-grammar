@@ -1,0 +1,94 @@
+* place name
+[town name]
+[tree place name]
+
+* tree place name
+[tree or trees] [tree place suffix]
+[tree place prefix] [tree or trees]
+
+* town name
+[town name start][town name end]
+
+*tree or trees
+oak
+oaks
+pine
+pines
+ash
+alders
+spruces
+yew
+birch
+birches
+
+* tree place prefix
+far
+near
+close
+tall
+short
+broad
+narrow
+fair
+fine
+grand
+great
+bountiful
+
+* tree place suffix
+glen
+close
+plateau
+bridge
+stone
+haven
+lake
+strait
+
+
+* town name start
+birch
+birk
+birken
+oak
+oaken
+ash
+ashen
+reed
+glen
+brook
+pine
+ains
+fair
+fresh
+north
+south
+east
+west
+high
+low
+kirk
+chel
+ox
+
+* town name end
+wood
+dale
+fen
+bridge
+stone
+ston
+chester
+croft
+brook
+haven
+cester
+ton
+down
+mere
+sea
+port
+pool
+ford
+sands
+by

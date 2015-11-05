@@ -1,0 +1,151 @@
+*feeling tweet
+[me:/] [!feeling][[feeling] word] [and/] [[feeling] activity][?[feeling] punctuation]
+[me:/] [!feeling][[feeling] word#1][ and/, also] [[feeling] word#2][?[feeling] punctuation]
+
+[!feeling][[feeling] word] [and/] [[feeling] activity][: my story/][?[feeling] punctuation]
+[!feeling][[feeling] word#1][ and/, also] [[feeling] word#2][: my story/][?[feeling] punctuation]
+
+[to be/can one be/] [!feeling][overwhelmingly] [[feeling] word]
+if you're [!feeling][[feeling] word] and you're [[feeling] activity]
+if you're [!feeling][[feeling] word] and you're [[feeling] activity] [are you me]
+
+*are you me
+are you me
+you might be me
+is it me
+it me
+hello it me
+
+# Master feelings
+
+*feeling
+happy
+sad
+angry
+excited
+annoyed
+jealous
+
+*overwhelmingly
+overwhelmingly
+uncontrollably
+inconsolably
+hysterically
+ridiculously
+disastrously
+intensely
+powerfully
+fiercely
+riotously
+
+# Happy section
+
+*happy word
+happy
+joyous
+delighted
+ecstatic
+
+*happy activity
+dancing
+laughing
+singing
+leaping
+bouncing
+grinning
+nodding
+
+*happy punctuation
+ :)
+ :D
+!
+
+#Sad section
+
+*sad word
+sad
+depressed
+despondent
+
+*sad activity
+eating
+sulking
+frowning
+
+*sad punctuation
+[ /.]
+
+#Angry section
+
+*angry word
+angry
+furious
+livid
+
+*angry activity
+shaking
+frowning
+stamping
+stomping
+
+*angry punctuation
+!
+
+#Excited section
+
+*excited word
+excited
+hyperactive
+hyper
+
+*excited activity
+bouncing
+wiggling
+clapping
+shouting
+yelling
+
+*excited punctuation
+!
+!!
+
+
+#Annoyed section
+
+*annoyed word
+annoyed
+irritated
+unsatisfied
+peeved
+disgruntled
+disenfranchised
+ticked off
+
+*annoyed activity
+yelling
+frowning
+pacing
+fuming
+rolling my eyes
+logging off
+
+*annoyed punctuation
+[ /.]
+
+#Jealous
+
+*jealous word
+jealous
+envious
+sneaky
+
+*jealous activity
+stealing [things/]
+thieving [things/]
+sneaking
+crooning
+pining
+
+
+*jealous punctuation
+[/...]

@@ -1,0 +1,67 @@
+# Dog club doesn't even work. It just makes me even more angry
+# These pilows don't relax me at all! 0/10
+
+*s this
+this
+
+*p this
+these
+
+*s that
+that
+
+*p that
+those
+
+*not relaxing tweet
+[!this/that][!s/p][[s/p] [this/that]] [[s/p] complete relaxing thing]
+
+*p thing for something
+trading cards
+books
+slides
+tweets
+songs
+excercises
+collectibles
+expos
+festivals
+
+*s thing for something
+club
+calendar
+book
+movie
+picture
+dance
+song
+memorabilia
+holiday
+
+*relaxing
+relaxing
+soothing
+
+*s complete relaxing thing
+[relaxing thing] [s thing for something]
+
+*p complete relaxing thing
+[relaxing thing] [p thing for something]
+
+*relaxing thing
+[soft thing]
+[cute animal]
+
+*cute animal
+dog
+cat
+kitten
+puppy
+
+*soft thing
+pillow
+cushion
+teddy bear
+plush
+blanket
+duvet
