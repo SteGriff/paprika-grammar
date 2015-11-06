@@ -1,3 +1,30 @@
+*for some time
+for [2 to 14] [units of time]
+
+*units of time
+seconds
+minutes
+hours
+days
+weeks
+months
+years
+
+*2 to 14
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
 *recently
 this morning
 yesterday morning
