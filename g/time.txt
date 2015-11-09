@@ -1,7 +1,29 @@
-*for some time
+* for some time
 for [2 to 14] [units of time]
 
-*units of time
+* regularly
+all the time
+every [/other ][unit of time]
+every [2 to 14] [units of time]
+every few [units of time]
+every [division of a day] of [the/every] day
+
+* division of a day
+second
+moment
+minute
+hour
+
+* unit of time
+second
+minute
+hour
+day
+week
+month
+year
+
+* units of time
 seconds
 minutes
 hours

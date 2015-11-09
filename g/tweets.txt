@@ -21,6 +21,9 @@ Hey [name]!
 [trolls tweet]
 [bad interaction tweet]
 [feeling tweet]
+[food tweet]
+[recipe tweet]
+[complement]
 
 *pre-ramble
 the [problem/effects/condition] started [at recent time and place]

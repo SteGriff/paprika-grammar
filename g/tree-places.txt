@@ -20,6 +20,10 @@ spruces
 yew
 birch
 birches
+poplar
+aspen
+thorn
+beech
 
 * tree place prefix
 far
@@ -44,7 +48,11 @@ stone
 haven
 lake
 strait
-
+hill
+field
+valley
+mound
+mount
 
 * town name start
 birch
@@ -76,6 +84,7 @@ wood
 dale
 fen
 bridge
+grove
 stone
 ston
 chester
@@ -92,3 +101,5 @@ pool
 ford
 sands
 by
+ham
+mound

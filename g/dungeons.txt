@@ -5,10 +5,6 @@ You enter [a] [dungeon room]
 *dungeon room
 [!nasty/nice][!dungeon room type][[nasty/nice] [dungeon room type] description] [[dungeon room type]]
 
-*nasty/nice
-nasty
-nice
-
 *dungeon room type
 cavern
 forest

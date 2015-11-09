@@ -1,0 +1,43 @@
+*complement tweet
+[complement]
+
+*complement
+You're so [skilled at ability]
+I admire how [skilful you are at ability]
+You're [somewhat good trait]
+
+*skilled at ability
+good at [skill]
+skilled at [skill]
+
+*skilful you are at ability
+good you are at [skill]
+skilful you are at [skill]
+
+*skill
+[instrument]
+playing [instrument]
+[sport]
+playing [sport]
+[written work]
+writing [written work]
+[weekending]
+
+*weekending
+paintballing
+partying
+go-karting
+skydiving
+hang-gliding
+surfing
+dancing
+
+*do activity
+play [game]
+go [weekending]
+write [written work]
+
+*doing activities
+playing [game]
+writing [written work]
+[weekending]

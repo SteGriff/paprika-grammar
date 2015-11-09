@@ -1,35 +1,63 @@
-﻿* invented food
+﻿* food tweet
+[food preference]
+[recipe tweet]
+[invented food]
+
+* recipe tweet
+[food/recipe/meal/cooking/culinary/tonights] [tip/tweet/thought/idea/inspiration]: [recipe]
+[recipe]
+
+* food preference
+I like my [all foodstuff] [not delicious]
+[all food should be/food should always be] [cooked] [until ready]
+
+* invented food
 [prepared food]
-[prepared food] [// served] [over/in/on/beneath/under/upon] a [liquid foodstuff] [food bed]
-[prepared food] [// served] [over/in/on/beneath/under/upon] [liquid foodstuff]
-
-* recipe
-[food cut] [solid foodstuff]. [cook] it.
-[food cut] [solid foodstuff]. [cook] it. [voila].
-[cook] [solid foodstuff] and eat.
-[cook] [solid foodstuff] and eat. [voila].
-[cut food] [solid foodstuff] and [cook]
-[cut food] [solid foodstuff] and [cook] [for some time]
-[cut food] [solid foodstuff] and [cook]. [voila].
-
-# Quips
-
-* voila
-[/Et ]Voila
-You're welcome
-There you go
-And there it is
-Ta-da
-Done
-Need I say more
-
-# Actions
+[prepared food] [// served] [food preposition] a [liquid foodstuff] [food bed]
+[prepared food] [// served] [food preposition] [liquid foodstuff]
 
 * prepared food
 [?deliciously] [cooked] [solid foodstuff]
 [cut food] [solid foodstuff]
 [cut food] [solid foodstuff], [cooked] [?deliciously]
 [cut food] and [cooked] [solid foodstuff]
+
+* recipe
+[mash food. cook. voila]
+[cook food and eat]
+[mash food and cook until dead]
+
+# ----- Recipe sub-grammars -----
+
+* mash food. cook. voila
+[food cut] [solid foodstuff]. [cook]. [voila]!
+
+* cook food and eat
+[cook] [solid foodstuff] [for some time] and then eat.
+[cook] [solid foodstuff] [until ready] and then eat.
+[cook] [solid foodstuff] and eat. [voila].
+
+* mash food and cook until dead
+[food cut] [solid foodstuff] and [cook] [for some time]
+[food cut] [solid foodstuff] and [cook] [until ready]
+[food cut] [solid foodstuff] and [cook] [for some time] or [until ready]
+[food cut] [solid foodstuff] and [cook]. [voila].
+
+# ----- Quips -----
+
+* voila
+[/et ]voila
+you're welcome
+there you go
+and there it is
+ta-da
+done
+need i say more
+
+* until ready
+until [food adjective]
+
+# ----- Actions -----
 
 * cooked
 cooked
@@ -41,7 +69,9 @@ sautéed
 baked
 boiled
 broiled
-[/slow ]roast[/ed]
+[/slow ]roasted
+microwaved
+irradiated
 
 * cook
 cook
@@ -54,13 +84,17 @@ bake
 boil
 broil
 [/slow ]roast
+microwave
+irradiate
 
 * cut food
 sliced
 chopped
 diced
 minced
+mashed
 crushed
+pulverised
 
 * food cut
 cut
@@ -68,15 +102,30 @@ slice
 chop
 dice
 mince
+mash
 crush
+pulverise
 
-# Accessories
+# ----- Accessories -----
+
+* food preposition
+over
+in
+on
+beneath
+below
+under
+upon
+atop
 
 * food bed
 bed
 preparation
 reduction
 jus
+foam
+pool
+grave
 
 * deliciously
 deliciously
@@ -85,6 +134,34 @@ sumptuously
 mouth-wateringly
 tenderly
 succulently
+
+* food adjective
+[delicious]
+[not delicious]
+
+* delicious
+delicious
+delectable
+sumptuous
+mouth-watering
+tender
+succulent
+
+* not delicious
+acceptable
+cooked
+dead
+edible
+sane
+trustworthy
+brown
+dry
+wet
+crumbly
+firm
+soft
+dubious
+lumpy
 
 # Categorised foods
 
@@ -100,10 +177,15 @@ malt vinegar
 [/soy /sweet chilli /tomato /brown ]sauce
 beer
 cider
-[/sour ]cream
+[/sour /ice ]cream
+[/fresh /natural ]yoghurt
+gravy
+milk
+stock
 
 * solid foodstuff
 [vegetable]
+[fruit]
 [meat]
 [carb]
 [other]
@@ -129,7 +211,7 @@ horse
 
 * vegetable
 [/red /yellow /green /chilli /bell ]pepper[/s]
-tomato[/es]
+[/cherry /plum ]tomato[/es]
 potato[/es]
 leek[/s]
 [/spring /red /brown ]onion[/s]
@@ -142,8 +224,23 @@ celery
 [/sweet]corn
 broccoli
 cauliflower
+rocket
+turnip[/s]
+parsnip[/s]
+cucumber[/s]
 mushroom[/s]
 [/green /garden /mushy ]peas
+
+* fruit
+apple[/s]
+orange[/s]
+lemon[/s]
+lime[/s]
+grapefruit[/s]
+pineapple[/s]
+[/water]melon[/s]
+mango[/s]
+peach[/es]
 
 * carb
 dough
@@ -154,11 +251,16 @@ lentils
 pulses
 rice
 pasta
+cereal[/s]
+breadcrumbs
+chips
+crisps
 
 * other
 cheese
-
-* garnish
-cheese
+parmesan
+egg[/s]
+hummus
 parsley
 rosemary
+salsa
