@@ -1,67 +1,192 @@
 # Dog club doesn't even work. It just makes me even more angry
 # These pilows don't relax me at all! 0/10
 
+* not relaxing tweet
+[!s/p][[s/p] this] [[s/p] relaxing thing] [not relaxing backlash]
+[!s/p][[s/p] this] [[s/p] relaxing thing] [not relaxing backlash]
+[p relaxing thing] [p doesn't even work] [?it just makes me angry]
+[forget about] [?useless] [!s/p][[s/p] relaxing thing]. [[s/p] is not relaxing at all][/!][/!]
+
+* not relaxing backlash
+[[s/p] is not relaxing at all][/!][/!] [?unsatisfied reaction]
+[[s/p] doesn't even work][/!][/!] [?it just makes me angry]
+
+*forget about
+forget about
+forget
+keep your
+
 *s this
 this
 
 *p this
 these
 
-*s that
-that
+* s is not relaxing at all
+isn't [relaxing] [/to me ][at all]
+doesn't [relax] me [at all]
 
-*p that
-those
+* p is not relaxing at all
+aren't [relaxing] [/to me ][at all]
+don't [relax] me [at all]
 
-*not relaxing tweet
-[!this/that][!s/p][[s/p] [this/that]] [[s/p] complete relaxing thing]
+* s doesn't even work
+# (This puppy) isn't relaxing at all
+doesn't even work
+doesn't work [at all]
+does nothing [/for me]
+is [useless]
+[s is not relaxing at all]
 
-*p thing for something
-trading cards
-books
-slides
-tweets
-songs
-excercises
-collectibles
-expos
-festivals
+* p doesn't even work
+# (Dog pillows) don't even work
+don't even work
+don't work [at all]
+do nothing [/for me]
+do nothing to [relax] me
+are [useless]
+[p is not relaxing at all]
 
-*s thing for something
+* useless
+useless
+rubbish
+futile
+lousy
+stupid
+
+* relaxing
+relaxing
+soothing
+calming
+
+* relax
+relax
+soothe
+calm
+
+* at all
+at all
+one bit
+even a little bit
+one iota
+
+* unsatisfied reaction
+>:(
+0/10
+1/10
+
+* s memorabilia
 club
+school
+festival
 calendar
 book
+annual
 movie
-picture
+photograph
+GIF
 dance
 song
+anthem
 memorabilia
 holiday
 
-*relaxing
-relaxing
-soothing
+* p memorabilia
+festivals
+books
+annuals
+movies
+photographs
+GIFs
+dance routines
+songs
+anthems
+memorabilia
+holidays
+trading cards
+slides
+tweets
+excercises
+collectibles
 
-*s complete relaxing thing
-[relaxing thing] [s thing for something]
-
-*p complete relaxing thing
-[relaxing thing] [p thing for something]
-
-*relaxing thing
+* s relaxing thing
+# "Pillow"
 [soft thing]
-[cute animal]
+# "Puppy club"
+[cute animal] [s memorabilia]
+[cute animal] [soft thing]
+[soft theme]-themed [s memorabilia]
+[soft theme]-themed [soft thing]
+[comforting gesture]
 
-*cute animal
+* p relaxing thing
+# "Blankets"
+[soft things]
+[cute animals]
+# "Kitten trading cards"
+[cute animal] [p memorabilia]
+[cute animal] [soft things]
+[soft theme]-themed [p memorabilia]
+[soft theme]-themed [soft things]
+[comforting gestures]
+
+* cute animal
 dog
 cat
 kitten
 puppy
+sloth
+baby wolf
+unicorn
+pony
 
-*soft thing
+* cute animals
+dogs
+cats
+kittens
+puppies
+sloths
+baby wolves
+unicorns
+ponies
+
+* soft thing
 pillow
 cushion
 teddy bear
 plush
 blanket
 duvet
+comforter
+
+* soft things
+pillows
+cushions
+teddy bears
+plushies
+blankets
+duvets
+comforters
+
+* comforting gesture
+cuddle
+hug
+back rub
+[/scalp /back /head ]massage
+friendship
+
+* comforting gestures
+cuddles
+hugs
+kind words
+complements
+
+* soft theme
+heart
+bird
+cloud
+rainbow
+friendship
+fox
+dinosaur
+unicorn
