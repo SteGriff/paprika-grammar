@@ -16,12 +16,10 @@ skilful you are at [skill]
 
 *skill
 [instrument]
-playing [instrument]
 [sport]
-playing [sport]
-[written work]
-writing [written work]
+[/writing ][written work]
 [weekending]
+[gaming]
 
 *weekending
 paintballing
@@ -32,12 +30,4 @@ hang-gliding
 surfing
 dancing
 
-*do activity
-play [game]
-go [weekending]
-write [written work]
-
-*doing activities
-playing [game]
-writing [written work]
-[weekending]
+* gaming

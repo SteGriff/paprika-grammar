@@ -6,19 +6,21 @@
 
 #Grammar Infrastructure
 
-#Usage like [!s/p]Where [be [s/p]] my [[s/p] frequently lost item]?
-# ->		{plural} Where [be plural] my [plural frequently lost item]?
+#Usage like [!s/p]Where [[s/p] be] my [[s/p] frequently lost item]?
+# ->		{p} Where [p be] my [p frequently lost item]?
 # ->		Where are my keys?
 
-*s/p
-singular
-plural
+*s this
+this
 
-*be plural
-are
+*p this
+these
 
-*be singular
-is
+*s it
+it
+
+*p it
+they
 
 ##### Good and bad #####
 

@@ -3,24 +3,17 @@
 
 * not relaxing tweet
 [!s/p][[s/p] this] [[s/p] relaxing thing] [not relaxing backlash]
-[!s/p][[s/p] this] [[s/p] relaxing thing] [not relaxing backlash]
 [p relaxing thing] [p doesn't even work] [?it just makes me angry]
-[forget about] [?useless] [!s/p][[s/p] relaxing thing]. [[s/p] is not relaxing at all][/!][/!]
+[forget about] [?useless] [p relaxing thing]. [/they ][p is not relaxing at all][/!][/!]
 
 * not relaxing backlash
-[[s/p] is not relaxing at all][/!][/!] [?unsatisfied reaction]
-[[s/p] doesn't even work][/!][/!] [?it just makes me angry]
+[!s/p][[s/p] is not relaxing at all][/!][/!] [?unsatisfied reaction]
+[!s/p][[s/p] doesn't even work][/!][/!] [?it just makes me angry]
 
 *forget about
 forget about
 forget
 keep your
-
-*s this
-this
-
-*p this
-these
 
 * s is not relaxing at all
 isn't [relaxing] [/to me ][at all]

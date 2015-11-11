@@ -3,12 +3,6 @@
 i [/just ]get [more angry]
 i'm even [more angry] now
 
-* s it
-it
-
-* p it
-they
-
 * more angry
 [more] angry
 angrier

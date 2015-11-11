@@ -1,7 +1,10 @@
 *tweet
+[complement]
 [item event phrase]
 [talk about tv]
 [meta tweet]
+[trolls tweet]
+[cross contact tweet]
 [monster tweet]
 [lore tweet]
 [confused question]
@@ -14,16 +17,15 @@
 [gossip commentary]
 [complement]
 [proverb interrupted]
-[music tweet]
+[I play music tweet]
+[made-up music tweet]
 [shout out]
-Hey [name]!
 [what the tweet]
-[trolls tweet]
 [bad interaction tweet]
 [feeling tweet]
 [food tweet]
 [recipe tweet]
-[complement]
+[not relaxing tweet]
 
 *pre-ramble
 the [problem/effects/condition] started [at recent time and place]
@@ -34,8 +36,8 @@ the [problem/effects/condition] started [at recent time and place]
 
 *urgent question
 where is the [emergency equipment]???
-where is my [singular frequently lost item]?!
-where are my [plural frequently lost item]?!
+where is my [s frequently lost item]?!
+where are my [p frequently lost item]?!
 
 *confused question
 [!category] Is [[category]] even a real [category]?

@@ -14,7 +14,7 @@ fire extinguisher
 defibrilator
 insulin
 
-*singular frequently lost item
+*s frequently lost item
 phone
 wallet
 coat
@@ -23,7 +23,7 @@ ticket
 pen drive
 laptop
 
-*plural frequently lost item
+*p frequently lost item
 keys
 shoes
 tickets

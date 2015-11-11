@@ -1,0 +1,43 @@
+* cross contact tweet
+[/hey ][name] [if/when] you see this [please contact me back][/?/??]
+[/hey ][name] [?just to let you know] i left you a [message] [please contact me back][/?/??]
+[/hey ][name] [?just to let you know] i [messaged] you [please contact me back][/?/??]
+[please contact me back] [if/when] you get this[/?/??]
+[please contact me back] [if/when] you get my [message][/?/??]
+
+* just to let you know
+just to let you know
+just so you know
+i want you to know
+
+* please contact me back
+[request] [contact] me back
+
+* contact
+email
+call
+phone
+text
+whatsapp
+inbox
+voicemail
+write to
+
+* message
+email
+text
+whatsapp
+inbox
+voicemail
+letter
+postcard
+
+* messaged
+emailed
+texted
+whatsappd
+inboxed
+voicemailed
+wrote to
+called
+phoned

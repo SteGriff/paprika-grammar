@@ -3,10 +3,17 @@
 # heavy soul
 
 *music tweet
-Listening to a great new [made-up music] album
+[I play music tweet]
+[made-up music tweet]
+
+* I play music tweet
 I play [!music style][[music style] instrument] in [a] [[music style] band].
-Do you listen to my [!music style][[music style] band]??
-Check out my new [made-up music] album
+do you listen to my [!music style][[music style] band]??
+
+* made-up music tweet
+[/please ]check out my new [made-up music] album
+my [made-up music] album is out [now/this week] [/btw]
+Listening to a great new [made-up music] album
 
 *made-up music
 [music genre modifier] [music genre]
@@ -39,7 +46,6 @@ sunshine
 thrash
 upbeat
 
-
 # MUSICAL ROLE:
 # Drums in a rock band
 # Synth in an experimental music group
@@ -55,6 +61,7 @@ electro
 *rock band
 rock band
 garage band
+metal band
 
 *classical band
 orchestra
@@ -64,33 +71,16 @@ jazz band
 jazz ensemble
 
 *electro band
+pop group
+electro group
 live electronic act
 experimental music group
 
 *instrument
-banjo
-bass
-cello
-clarinet
-cornet
-double bass
-drums
-electric guitar
-fiddle
-flute
-guitar
-harp
-harpsichord
-keyboard
-piano
-saxophone
-synth
-trombone
-trumpet
-tuba
-ukelele
-viola
-violin
+[jazz instrument]
+[classical instrument]
+[electro instrument]
+[rock instrument]
 
 *rock instrument
 electric guitar
@@ -126,8 +116,9 @@ violin
 
 *jazz instrument
 banjo
-bass guitar
+bass[/ guitar]
 clarinet
+double bass
 drums
 guitar
 piano
