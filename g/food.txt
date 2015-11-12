@@ -13,8 +13,8 @@ I like my [all foodstuff] [not delicious]
 
 * invented food
 [prepared food]
-[prepared food] [// served] [food preposition] a [liquid foodstuff] [food bed]
-[prepared food] [// served] [food preposition] [liquid foodstuff]
+[prepared food] [// served] [preposition] a [liquid foodstuff] [food bed]
+[prepared food] [// served] [preposition] [liquid foodstuff]
 
 * prepared food
 [?deliciously] [cooked] [solid foodstuff]
@@ -107,16 +107,6 @@ crush
 pulverise
 
 # ----- Accessories -----
-
-* food preposition
-over
-in
-on
-beneath
-below
-under
-upon
-atop
 
 * food bed
 bed

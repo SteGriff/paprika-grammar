@@ -22,11 +22,24 @@ it
 *p it
 they
 
-##### Good and bad #####
+# ----- Good and bad -----
 
-*good
+* good
 good
 cool
 interesting
 fun
 neat
+
+# ----- Joining words ------
+
+* preposition
+over
+in
+on
+beneath
+below
+under
+upon
+atop
+beside

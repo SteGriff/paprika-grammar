@@ -116,13 +116,6 @@ bold
 courageous
 sincere
 
-*very
-very
-so
-rather
-auspiciously
-considerably
-
 *does good things
 volunteers at the [charity place]
 [looks after] [the vulnerable]

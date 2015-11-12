@@ -50,6 +50,11 @@ legs
 desk
 seat
 cushion
+credenza
+pillow
+table
+chair
+
 
 ##
 ## ===== REASONING =====
@@ -97,7 +102,6 @@ heater
 fan heater
 radiator
 fire
-range
 wood-burner
 boiler
 

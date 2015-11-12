@@ -1,8 +1,9 @@
 #See also: Lore
 
 *monster tweet
-Observe the [monster]
-The [monster] is my favourite
+[observe/see/behold] the [monster]
+the [monster] in its natural habitat
+do you believe in the [monster]
 
 *neutral power
 blazing
@@ -54,7 +55,7 @@ horrible
 screeching
 
 *light home
-day
+daylight
 light
 justice
 truth
@@ -65,12 +66,12 @@ thunder
 power
 courage
 heaven
-sky
+the sky
 wonder
 wisdom
 
 *dark home
-night
+the night
 darkness
 lies
 evil
@@ -83,6 +84,7 @@ thunder
 terror
 
 *beast
+addax
 ant
 agent
 angel
@@ -146,6 +148,7 @@ minotaur
 newt
 ogre
 orc
+oryx
 owl
 ox
 panther

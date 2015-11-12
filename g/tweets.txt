@@ -1,5 +1,5 @@
 *tweet
-[complement]
+[complement tweet]
 [item event phrase]
 [talk about tv]
 [meta tweet]
@@ -15,8 +15,7 @@
 [dungeon tweet]
 [gossip]
 [gossip commentary]
-[complement]
-[proverb interrupted]
+[proverb interrupted tweet]
 [I play music tweet]
 [made-up music tweet]
 [shout out]
@@ -26,12 +25,13 @@
 [food tweet]
 [recipe tweet]
 [not relaxing tweet]
+[pre-ramble tweet]
 
-*pre-ramble
+*pre-ramble tweet
 the [problem/effects/condition] started [at recent time and place]
-[I first noticed that/it was] [at recent time and place]
+[i first noticed that/it was] [at recent time and place]
 
-*proverb interrupted
+*proverb interrupted tweet
 [proverb first half] [urgent question]
 
 *urgent question
