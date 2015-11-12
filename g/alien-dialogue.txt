@@ -1,0 +1,63 @@
+* alien dialogue
+[foolish] human! [threat]! [?enjoy while it lasts]
+[foolish] human! [threat]! [?enjoy while it lasts]
+
+* threat
+[you will fail]
+[we will succeed]
+[you will fail][./ and] [we will succeed]
+[we will succeed][./ and] [you will fail]
+
+* you will fail
+you cannot [overthrow] us
+we [will not/cannot] be [exterminated]
+you will not [survive]
+
+* we will succeed
+[/we will ][overthrow] [you/the humans/all humans]!
+[you will be/prepare to be] [exterminated]!
+our race will [survive] [always]
+
+* enjoy while it lasts
+enjoy your life while it lasts!
+you will not [survive]!
+you have no chance to [survive]!
+make your time!
+spend your last days wisely!
+your life will soon end!
+
+* foolish
+foolish
+petty
+pathetic
+measly
+puny
+
+* always
+always
+forever
+for eternity
+to the end
+
+* overthrow
+overthrow
+vanquish
+destroy
+obliterate
+annihilate
+exterminate
+crush
+
+* exterminated
+exterminated
+annihilated
+obliterated
+destroyed
+vanquished
+overthrown
+crushed
+
+* survive
+survive
+last
+endure

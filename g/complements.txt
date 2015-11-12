@@ -16,6 +16,7 @@ so
 rather
 auspiciously
 outrageously
+super
 
 *skilled at ability
 good at [skill]
@@ -28,7 +29,7 @@ skilful you are at [skill]
 *skill
 [instrument]
 [sport]
-[/writing ][written work]
+[written work]
 [weekending]
 [gaming]
 [doing art]
@@ -42,12 +43,6 @@ hang-gliding
 surfing
 dancing
 
-* gaming
-mario
-sonic
-cod
-xbox
-minecraft
 
 * doing art
 drawing

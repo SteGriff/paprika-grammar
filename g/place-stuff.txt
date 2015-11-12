@@ -1,17 +1,28 @@
 * place stuff tweet
 [place]. [[place] stuff#1]. [[place] adjective] [[place] stuff#2].
+[place]. [[place] adjective#1] [[place] stuff#1]. [[place] adjective#2] [[place] stuff#2].
+
+* if you need me tweet
+[!place]if you need me i'll be [in [place]]
+[!place]i'll be [in [place]] with the [[place] adjective] [[place] stuff]
+[!place][[place] adjective] [[place] stuff]? find me [in [place]]
+[!place][[place] adjective] [[place] stuff]? i'm [in [place]]
 
 * place
 space
 farm
-house
+home
 cinema
 swimming pool
-school
+college
 business
 circus
+ocean
 
 # ----- Space -----
+
+* in space
+in space
 
 * space stuff
 space
@@ -35,24 +46,175 @@ black
 [colour]
 shiny
 smooth
+glowing
+glittering
+speedy
+spinning
 
 # ----- Farm -----
 
+* in farm
+on the farm
+
 * farm stuff
 [farm animal]
+barn
+wheat
+corn
+grass
 
 * farm adjective
 round
 smelly
 big
 small
-captive
+fresh
 fat
 
-# farm
-# house
-# cinema
-# swimming pool
-# school
-# business
-# circus
+# ----- home -----
+
+* in home
+at home
+in my house
+
+* home stuff
+people
+pets
+furniture
+
+* home adjective
+clean
+dirty
+nice
+expensive
+cheap
+smooth
+shiny
+
+# ----- cinema -----
+
+* in cinema
+at the cinema
+
+* cinema stuff
+films
+staff
+snacks
+
+* cinema adjective
+boring
+big
+long
+exciting
+challenging
+
+# ----- swimming pool -----
+
+* in swimming pool
+at the pool
+
+* swimming pool stuff
+water
+swimmers
+tiles
+showers
+inflatables
+slides
+
+* swimming pool adjective
+shiny
+smooth
+blue
+bright
+clean
+bouyant
+
+# ----- college -----
+
+* in college
+in college
+at college
+
+* college stuff
+students
+teachers
+desks
+lessons
+quad
+societies
+libraries
+laboratory
+halls
+lectures
+
+* college adjective
+boring
+exciting
+important
+frustrating
+
+# ----- business -----
+
+* in business
+at work
+
+* business stuff
+strategies
+synergies
+procedures
+leaders
+colleagues
+
+* business adjective
+exciting
+important
+smooth
+shiny
+compelling
+forgettable
+bold
+overweight
+
+# ----- circus -----
+
+* in circus
+at the circus
+
+* circus stuff
+clown[/s]
+juggler[/s]
+elephant[/s]
+acrobat[/s]
+punter[/s]
+audience
+ringmaster
+
+* circus adjective
+daring
+captive
+airborne
+
+# ----- ocean -----
+
+* in ocean
+in the ocean
+under the sea
+
+* ocean stuff
+fish
+whale[/s]
+shark[/s]
+currents
+seaweed
+mermaid[/s]
+shipwreck[/s]
+
+* ocean adjective
+shiny
+smooth
+compelling
+troublesome
+dangerous
+beautiful
+warm
+cold

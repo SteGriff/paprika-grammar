@@ -26,6 +26,12 @@
 [recipe tweet]
 [not relaxing tweet]
 [pre-ramble tweet]
+[place stuff tweet]
+[if you need me tweet]
+
+* alien dialogue tweet
+"[alien dialogue]" -- [alien/space alien/space invader/space person]
+[alien dialogue] haha [jk/kidding/jokes]
 
 *pre-ramble tweet
 the [problem/effects/condition] started [at recent time and place]
