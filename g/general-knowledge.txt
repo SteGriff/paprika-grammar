@@ -78,7 +78,7 @@ magnolia
 
 # Not in category search
 
-*family member
+* family member
 dad
 mum
 brother
@@ -88,6 +88,9 @@ uncle
 aunt
 brother-in-law
 sister-in-law
+grandad
+grandma
+grandpa
 
 *gaming
 [card game]

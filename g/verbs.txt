@@ -1,0 +1,220 @@
+* verb tweet
+[verb#1] [thing to [verb#1]#a][./ and] [verb#2] [thing to [verb#2]#b]
+
+* verb
+be
+have
+do
+say
+get
+make
+go
+know
+take
+see
+come
+think
+look
+want
+give
+use
+find
+tell
+ask
+work
+seem
+feel
+try
+leave
+call
+
+# ----- be -----
+
+* thing to be
+brave
+
+# ----- have -----
+
+* thing to have
+compassion
+[an] [animal]
+[a] [s relaxing thing]
+
+# ----- do -----
+
+* thing to do
+karate
+agile
+[school subject]
+
+# ----- say -----
+
+* thing to say
+# i.e. Nice things, mean things
+[thing to say might be] things
+hello
+goodbye
+please
+thankyou
+
+* thing to say might be
+nice
+mean
+great
+encouraging
+deep
+
+# ----- get -----
+
+* thing to get
+stressed easily
+your coat from the car
+
+# ----- make -----
+
+* thing to make
+things
+a mess
+
+# ----- go -----
+
+* thing to go
+crazy
+outside
+inside
+out
+
+
+# ----- know -----
+
+* thing to know
+about the matrix
+the truth
+
+# ----- take -----
+
+* thing to take
+the biscuit
+my breath away
+
+# ----- see -----
+
+* thing to see
+the sunrise
+the sunset
+a unicorn
+a tree
+
+# ----- come -----
+
+* thing to come
+home
+back
+upstairs
+downstairs
+inside
+outside
+out
+
+# ----- think -----
+
+* thing to think
+about life
+for a long time
+
+# ----- look -----
+
+* thing to look
+at yourself
+carefully
+at a tree
+at [an] [animal]
+
+# ----- want -----
+
+* thing to want
+a better life
+a promotion
+
+# ----- give -----
+
+* thing to give
+it 100%
+it your best shot
+me your keys
+away your house
+
+# ----- use -----
+
+* thing to use
+tools
+html
+javascript
+a knife
+a screwdriver
+
+# ----- find -----
+
+* thing to find
+treasure
+yourself
+the truth
+
+# ----- tell -----
+
+* thing to tell
+the truth
+me what you think
+
+# ----- ask -----
+
+* thing to ask
+me what i think
+for help
+
+# ----- work -----
+
+* thing to work
+hard
+all day
+9 to 5
+at a restaurant
+
+# ----- seem -----
+
+* thing to seem
+happy
+confident
+
+# ----- feel -----
+
+* thing to feel
+[emotion]
+[feeling]
+
+# ----- try -----
+
+* thing to try
+sushi
+your best
+to succeed
+
+# ----- leave -----
+
+* thing to leave
+home
+school
+the house
+me alone
+
+# ----- call -----
+
+* thing to call
+me
+me later
+him
+her
+your [family member]
+work
+the hospital
+the police

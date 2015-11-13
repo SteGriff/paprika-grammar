@@ -2,13 +2,10 @@
 # These pilows don't relax me at all! 0/10
 
 * not relaxing tweet
-[!s/p][[s/p] this] [[s/p] relaxing thing] [not relaxing backlash]
+[!s/p][[s/p] this] [[s/p] relaxing thing]... [!s/p][[s/p] is not relaxing at all][/!!] [?unsatisfied reaction]
+[!s/p][[s/p] this] [[s/p] relaxing thing]... [!s/p][[s/p] doesn't even work][/!!] [?it just makes me angry]
 [p relaxing thing] [p doesn't even work] [?it just makes me angry]
-[forget about] [?useless] [p relaxing thing]. [/they ][p is not relaxing at all][/!][/!]
-
-* not relaxing backlash
-[!s/p][[s/p] is not relaxing at all][/!][/!] [?unsatisfied reaction]
-[!s/p][[s/p] doesn't even work][/!][/!] [?it just makes me angry]
+[forget about] [?useless] [p relaxing thing]. [/they ][p is not relaxing at all]
 
 *forget about
 forget about

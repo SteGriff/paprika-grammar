@@ -18,7 +18,7 @@
 [proverb interrupted tweet]
 [I play music tweet]
 [made-up music tweet]
-[shout out]
+[shout out tweet]
 [what the tweet]
 [bad interaction tweet]
 [feeling tweet]

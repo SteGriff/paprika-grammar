@@ -1,0 +1,15 @@
+* school subject
+english
+maths
+science
+biology
+chemistry
+physics
+art
+graphic design
+music
+electronics
+drama
+performing arts
+philosophy
+sociology
