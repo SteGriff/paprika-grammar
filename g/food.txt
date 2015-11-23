@@ -1,4 +1,4 @@
-ï»¿* food tweet
+* food tweet
 [food preference]
 [recipe tweet]
 [invented food]
@@ -65,7 +65,7 @@ cooked
 [/char-]grilled
 barbequeued
 smoked
-sautÃ©ed
+sautéed
 baked
 boiled
 broiled
@@ -79,7 +79,7 @@ cook
 [/char-]grill
 barbequeue
 smoke
-sautÃ©e
+sautée
 bake
 boil
 broil
