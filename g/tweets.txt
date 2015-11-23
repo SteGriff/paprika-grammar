@@ -8,7 +8,7 @@
 [monster tweet]
 [lore tweet]
 [confused question]
-[boast]
+[house boast tweet]
 [cv]
 [advice]
 [just cruising]
@@ -51,10 +51,6 @@ where are my [p frequently lost item]?!
 [!category] Is [[category]] even a real [category]?
 What is [a] [category]? Is [[category]] [a] [category]?
 is [[category]] [a] [real/] [category]?
-
-*boast
-My [light power] [built posession] is entirely [construction material#1] and [construction material#2]
-[Behold/Cower before/Witness] [my/the] [?light power] [construction material] [built possession]
 
 *what the tweet
 [what/why/how] [the/so/such] [dolf/pea/dog/ship/tweet/ham/egg]

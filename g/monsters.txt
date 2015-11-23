@@ -31,7 +31,10 @@ shining
 gallant
 glowing
 noble
-hero
+heroic
+majestic
+magnificent
+resplendent
 righteous
 supreme
 hopeful

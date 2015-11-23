@@ -233,7 +233,6 @@ mango[/s]
 peach[/es]
 
 * carb
-dough
 bread
 toast
 [/baked /kidney /broad /green /refried ]beans
@@ -254,3 +253,16 @@ hummus
 parsley
 rosemary
 salsa
+
+# ----- Old -----
+
+* unlikely ingredients
+frogs
+snails
+nails
+tungsten
+lightbulbs
+engine oil
+gristle
+salt
+bolts
