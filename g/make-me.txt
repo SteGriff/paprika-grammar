@@ -1,5 +1,18 @@
 # warm me up or cool me down i just want you to be around
 
+* make me x tweet
+[effect me] or [effect me#1], i just want you to [be something]
+[effect me]. [effect me#1]. [go on]
+[can you/please] [effect me] and [be ok with it]
+
+* go on
+go on
+come on
+go for it
+do it
+do iiiittt
+go!
+
 * effect me
 warm me up
 cool me down
@@ -14,9 +27,13 @@ make me run
 
 * be something
 be my [connection]
-be [ok emotionally]
+[be ok with it]
 be [successful]
 feel at home
+
+* be ok with it
+[be/feel] [ok emotionally]
+[be/feel] [ok emotionally] with [it/this]
 
 * connection
 friend
@@ -30,11 +47,13 @@ ok
 alright
 safe
 happy
+confident
+good
+cool
 
 * successful
 successful
 a success
-
 
 * emotion
 [feeling]

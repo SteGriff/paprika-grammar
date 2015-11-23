@@ -13,8 +13,7 @@
 [advice]
 [just cruising]
 [dungeon tweet]
-[gossip]
-[gossip commentary]
+[gossip tweet]
 [proverb interrupted tweet]
 [I play music tweet]
 [made-up music tweet]
@@ -28,6 +27,9 @@
 [pre-ramble tweet]
 [place stuff tweet]
 [if you need me tweet]
+[verb tweet]
+[what if verb tweet]
+[alien dialogue tweet]
 
 * alien dialogue tweet
 "[alien dialogue]" -- [alien/space alien/space invader/space person]

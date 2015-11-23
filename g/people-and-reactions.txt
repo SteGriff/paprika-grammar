@@ -1,21 +1,17 @@
-*astonished
-astonished
-astounded
-bewildered
-dumbfounded
-shocked
-stupefied
-flabberghasted
+* gossip tweet
+[gossip] [?gossip commentary]
 
-*groan
-eeuurrgh
-uuurrr
-augh
-oooh
-oohh
-bleerrrg
+# ----- Dictionary -----
 
-*a bit
+* somewhat
+kind of
+pretty
+so
+rather
+very
+incredibly
+
+* a bit
 a bit
 a little
 rather
@@ -36,37 +32,6 @@ child
 little [child]
 baby [child]
 
-
-# CONVERSATIONAL CONCERN
-
-*concern for you
-how are you?
-are you ok?
-are you alright?
-are you feeling ok?
-are you feeling alright?
-
-*concern for self
-I feel [somewhat ill]
-I'm [somewhat ill]
-[groan]... I feel [somewhat ill]
-[groan]... I'm [somewhat ill]
-
-*somewhat ill
-[ill]
-[a bit] [ill]
-sick as [a] [animal]
-
-*concern for country
-this country has gone to the [animal]s
-this country used to be great
-
-*concern
-[concern for you]
-[concern for self]
-[concern for country]
-
-
 # TALKING ABOUT WHAT PEOPLE DID
 
 *character
@@ -81,6 +46,7 @@ is [somewhat trait]
 *somewhat trait
 [somewhat good trait]
 [somewhat bad trait]
+[somewhat neutral trait]
 
 *somewhat bad trait
 [a bit] [bad trait]
@@ -99,9 +65,19 @@ boring
 officious
 violent
 
+*somewhat neutral trait
+[very] [neutral trait]
+
+* neutral trait
+serious
+organised
+efficient
+punctual
+energetic
+talkative
+
 *somewhat good trait
 [very] [good trait]
-too [good trait]
 
 *good trait
 nice
@@ -110,11 +86,14 @@ gentle
 honest
 sweet
 considerate
-good company
+friendly
 noble
 bold
 courageous
 sincere
+articulate
+eloquent
+well-prepared
 
 *does good things
 volunteers at the [charity place]
@@ -166,3 +145,22 @@ another [animal]
 [a] [infant]
 another [infant]
 
+* opinion
+[?somewhat] [nice gossip opinion]
+[?somewhat] [mean gossip opinion] [?comment tail]
+
+* nice gossip opinion
+good
+great
+brilliant
+cool
+nice
+sweet
+
+* mean gossip opinion
+shortsighted
+dumb
+stupid
+weird
+silly
+creepy

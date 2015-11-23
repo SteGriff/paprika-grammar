@@ -1,18 +1,12 @@
+# ----- Implementations -----
+
 *item event phrase
 [My/] [thing] [did [thing] action] [?recently], [?item event exclamation]
 
-*thing
-alarm clock
-bed
-dog
-cat
-hot water
-internet
-tamagotchi
-computer
-trousers
-boss
-phone
+* thing doing thing
+[thing] [doing [thing] action]
+
+# ----- Accessories -------
 
 *item event exclamation
 help?
@@ -26,6 +20,23 @@ what is my life?
 why me?
 so...?
 interesting...
+
+# ----- Clever grammar -----
+
+*thing
+alarm clock
+bed
+dog
+cat
+hot water
+internet
+tamagotchi
+computer
+trousers
+boss
+phone
+mug
+unicorn
 
 *did phone action
 died
@@ -122,3 +133,20 @@ fell off
 disappeared
 got stolen
 turned up
+
+*did mug action
+just sat there all day
+cracked
+split
+fell off the desk
+
+*did unicorn action
+jumped over a rainbow
+came to town
+cried all over me
+cried all day
+spewed a rainbow
+made a rainbow
+gave me gold
+
+

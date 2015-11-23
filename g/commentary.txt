@@ -1,109 +1,19 @@
-*gossip commentary
-[somewhat] [opinion]
-[somewhat] [opinion] [comment tail]
+* news tweet
+[!good/bad] heard about [[good/bad] news]. [[good/bad] news opinion]
+[!good/bad][the [good/bad] newspaper] calls [[good/bad] news] "[[good/bad] buzzword]"
+[good/bad] news everybody: [[good/bad] news]
 
-*somewhat
-kind of
-pretty
-so
-too
-rather
-very
-incredibly
+# ----- Types of news -----
 
-*opinion
-[nice gossip opinion]
-[mean gossip opinion]
+* good news
+renewable energy
+electric cars
+self-driving cars
+more women in tech
+millenials
+urban regeneration
 
-*nice gossip opinion
-good
-great
-brilliant
-cool
-nice
-sweet
-
-*mean gossip opinion
-shortsighted
-dumb
-stupid
-weird
-silly
-creepy
-
-*comment tail
-if you ask me
-in my opinion
-I reckon
-I say
-
-*formal somewhat
-somewhat
-too
-rather
-very
-
-*mean buzzword
-unsustainable
-incoherent
-meaningless
-scandalous
-shortsighted
-unjustifiable
-
-*the newspaper
-the [newspaper]
-*newspaper
-Telegraph
-Times
-Independent
-Guardian
-
-*great
-great
-fantastic
-brilliant
-super
-smashing
-excellent
-
-*hyperbole
-completely
-absolutely
-100%
-totally
-so
-
-*news commentary
-[nice news opinion]
-[mean news opinion]
-
-*nice news opinion
-it's [great]
-it's [great], [comment tail]
-[news says] it's [great]
-it's [formal somewhat] [great]
-it's [formal somewhat] [great], [comment tail]
-[news says] it's [formal somewhat] [great]
-
-*mean news opinion
-it's [mean buzzword]
-it's [mean buzzword], [comment tail]
-it's [hyperbole] [mean buzzword]
-it's [hyperbole] [mean buzzword], [comment tail]
-[news says] it's [mean buzzword]
-
-*news says
-[the newspaper] [reports that] 
- 
-*reports that
-says that
-reports that
-alleges that
-suggests that
-speculates that
-
-*controversy
+* bad news
 the energy crisis
 the financial crisis
 blood diamonds
@@ -118,3 +28,104 @@ Syria
 government snooping
 nuclear power
 animal testing
+privacy laws
+killer robots
+millenials
+
+# ----- Reactions -----
+
+* bad buzzword
+unsustainable
+incoherent
+meaningless
+scandalous
+shortsighted
+unjustifiable
+unviable
+uneconomical
+
+* bad reaction
+shakin ma head
+[smh/smdh]
+oh dear
+dear
+oh no
+nope
+very bad
+ah
+
+* good buzzword
+forward-looking
+profitable
+sustainable
+justified
+coherent
+consistent
+viable
+economical
+
+* good reaction
+yes [?good reaction]
+cool [?good reaction]
+very good [?good reaction]
+good good [?good reaction]
+hmm yes [?good reaction]
+yay [?good reaction]
+yep [?good reaction]
+
+* comment tail
+if you ask me
+in my opinion
+I reckon
+I say
+
+# ----- Newspapers -----
+
+* the good newspaper
+the Telegraph
+the Times
+the Independent
+the Guardian
+
+* the bad newspaper
+the Daily Mail
+the Sun
+the Star
+
+* reports that
+says that
+reports that
+alleges that
+suggests that
+speculates that
+
+# ----- Opinions about news -----
+
+* good news opinion
+it's [great] [?comment tail]
+it's [formal somewhat] [great] [?comment tail]
+
+* formal somewhat
+somewhat
+too
+rather
+very
+
+* great
+great
+fantastic
+brilliant
+super
+smashing
+excellent
+
+* bad news opinion
+it's [bad buzzword] [?comment tail]
+it's [hyperbole] [bad buzzword] [?comment tail]
+
+* hyperbole
+completely
+absolutely
+100%
+totally
+so

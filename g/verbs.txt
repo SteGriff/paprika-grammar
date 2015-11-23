@@ -1,5 +1,11 @@
 * verb tweet
-[verb#1] [thing to [verb#1]#a][./ and] [verb#2] [thing to [verb#2]#b]
+[verb#1] [thing to [verb#1]#a]. [verb#2] [thing to [verb#2]#b]
+[verb#1] [thing to [verb#1]#a] and [verb#2] [thing to [verb#2]#b]
+[verb#1] [thing to [verb#1]#a] and [you might/you could] [verb#2] [thing to [verb#2]#b]
+
+* what if verb tweet
+what if I [verb] [thing to [verb]]
+what if I [verb#1] [thing to [verb#1]#a]. what if I [verb#2] [thing to [verb#2]#b].
 
 * verb
 be
@@ -32,11 +38,23 @@ call
 
 * thing to be
 brave
+an adult
+serious
+the best
+on time
+[somewhat good trait]
+[somewhat neutral trait]
+[skilled at ability]
+[skilful you are at ability]
+[ok emotionally]
 
 # ----- have -----
 
 * thing to have
 compassion
+an opinion
+strong feelings
+doubts
 [an] [animal]
 [a] [s relaxing thing]
 
@@ -46,16 +64,25 @@ compassion
 karate
 agile
 [school subject]
+amazing stuff
+exercises
+a lot of [weekending]
+a lot of [doing art]
 
 # ----- say -----
 
 * thing to say
-# i.e. Nice things, mean things
 [thing to say might be] things
+# ^ E.g "nice things", "mean things"
+something [thing to say might be]
 hello
 goodbye
 please
 thankyou
+you'll come back
+that again
+it again
+the password
 
 * thing to say might be
 nice
@@ -63,39 +90,72 @@ mean
 great
 encouraging
 deep
+cool
+complicated
+simple
+confusing
+suspicious
 
 # ----- get -----
 
 * thing to get
-stressed easily
+stressed too easily
 your coat from the car
+your own back
+back on the horse
+the [bus/train] [home/to work]
+on with it
+somewhere finally
+along with each other
+your life back
+to know [thing to know]
 
 # ----- make -----
 
 * thing to make
 things
+things better
+it better
+up
 a mess
+a lot of noise
+some noise
+your way [forward/up]
 
 # ----- go -----
 
 * thing to go
+back
+back the way you came
 crazy
 outside
 inside
 out
-
+for it
+beyond
+ahead
+to town
+to [school subject]
 
 # ----- know -----
 
 * thing to know
 about the matrix
 the truth
+your friends
+your own phone number
+your food groups
+your alphabet
+your elements
 
 # ----- take -----
 
 * thing to take
 the biscuit
 my breath away
+it out on me
+another shot
+a shot
 
 # ----- see -----
 
@@ -104,6 +164,12 @@ the sunrise
 the sunset
 a unicorn
 a tree
+with new eyes
+clearly now
+the world
+no other way
+the way
+# a [thing doing thing] # Not implemented yet in item-events.txt
 
 # ----- come -----
 
@@ -114,13 +180,19 @@ upstairs
 downstairs
 inside
 outside
-out
+together
+along
+with me
 
 # ----- think -----
 
 * thing to think
 about life
 for a long time
+it's ok
+deeply
+about it
+
 
 # ----- look -----
 
@@ -129,12 +201,21 @@ at yourself
 carefully
 at a tree
 at [an] [animal]
+great
+friendly
+sharp
+before you leap
+twice
 
 # ----- want -----
 
 * thing to want
 a better life
 a promotion
+it badly
+it more
+for nothing
+
 
 # ----- give -----
 
@@ -143,6 +224,13 @@ it 100%
 it your best shot
 me your keys
 away your house
+over
+continuously
+constantly
+it away
+it all away
+everything away
+up
 
 # ----- use -----
 
@@ -152,6 +240,9 @@ html
 javascript
 a knife
 a screwdriver
+your head
+some logic
+a spork
 
 # ----- find -----
 
@@ -159,18 +250,28 @@ a screwdriver
 treasure
 yourself
 the truth
+out the answer
+more questions
 
 # ----- tell -----
 
 * thing to tell
 the truth
+no lies
 me what you think
+me the truth
+everyone
+someone
 
 # ----- ask -----
 
 * thing to ask
 me what i think
 for help
+again
+around
+your friends
+yourself
 
 # ----- work -----
 
@@ -179,25 +280,41 @@ hard
 all day
 9 to 5
 at a restaurant
+at it
+on it
+the night shift
+less
+more
 
 # ----- seem -----
 
 * thing to seem
-happy
-confident
+[ok emotionally]
+[feeling]
+tired
+legit
+curious
+suspicious
 
 # ----- feel -----
 
 * thing to feel
 [emotion]
 [feeling]
+better
+normal[/ again]
 
 # ----- try -----
 
 * thing to try
-sushi
+some sushi
+a new drink
+some new pants
+a new look
 your best
 to succeed
+and try again
+to [verb#try]
 
 # ----- leave -----
 
@@ -206,6 +323,10 @@ home
 school
 the house
 me alone
+me here
+your bags
+your baggage behind
+it all behind
 
 # ----- call -----
 

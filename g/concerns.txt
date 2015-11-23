@@ -1,0 +1,36 @@
+# CONVERSATIONAL CONCERN
+
+*concern for you
+how are you?
+are you ok?
+are you alright?
+are you feeling ok?
+are you feeling alright?
+
+*concern for self
+I feel [somewhat ill]
+I'm [somewhat ill]
+[groan]... I feel [somewhat ill]
+[groan]... I'm [somewhat ill]
+
+*somewhat ill
+[ill]
+[a bit] [ill]
+sick as [a] [animal]
+
+*concern for country
+this country has gone to the [animal]s
+this country used to be great
+
+*concern
+[concern for you]
+[concern for self]
+[concern for country]
+
+* groan
+eeuurrgh
+uuurrr
+augh
+oooh
+oohh
+bleerrrg
