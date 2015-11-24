@@ -1,31 +1,53 @@
 # CONVERSATIONAL CONCERN
 
-*concern for you
-how are you?
-are you ok?
-are you alright?
-are you feeling ok?
-are you feeling alright?
+* feeling ill tweet
+[concern for self]
+[concern for self]. [i should] get [thing to get]
 
-*concern for self
-I feel [somewhat ill]
-I'm [somewhat ill]
-[groan]... I feel [somewhat ill]
-[groan]... I'm [somewhat ill]
+* i should
+i should
+time to
+[i /]better
+
+* concern for you
+how are you?
+how about you?
+[/are ]you [ok/good]?
+[/are ]you [/feeling ]ok?
+[/are ]you [/feeling ]alright?
+
+* concern for self
+i feel [somewhat ill] [right now]
+i'm [somewhat ill] [right now]
+[groan]... i feel [somewhat ill] [right now]
+[groan]... i'm [somewhat ill] [right now]
+
+* right now
+right now
+rn
+today
+atm
 
 *somewhat ill
 [ill]
-[a bit] [ill]
+[somewhat] [ill]
 sick as [a] [animal]
 
-*concern for country
-this country has gone to the [animal]s
-this country used to be great
+* a bit
+a bit
+a little
+rather
+kind of
 
-*concern
-[concern for you]
-[concern for self]
-[concern for country]
+*ill
+ill
+sick
+queasy
+rubbish
+bad
+woozy
+dizzy
+gross
 
 * groan
 eeuurrgh

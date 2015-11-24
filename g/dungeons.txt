@@ -17,7 +17,7 @@ please, i'm like the [dungeon room] KING
 [!nasty/nice][!dungeon room type]this [[dungeon room type]][, man/]. so [[nasty/nice] [dungeon room type] description]. [?[nasty/nice] rating]
 
 * dungeon expectations
-[!nasty/nice][!dungeon room type]never [knew/thought/suspected] a [[dungeon room type]] [could/would] be[/ so] [[nasty/nice] [dungeon room type] description][//like this]. [/seriously/for real/you know]
+[!nasty/nice][!dungeon room type]never [knew/thought/suspected] a [[dungeon room type]] [could/would] be[/ so] [[nasty/nice] [dungeon room type] description][// like this]. [/seriously/for real/you know]
 
 * dungeon pictionary
 [/a ][dungeon room type]? [/a ][[dungeon room type]]?? [it's/how is it] [nasty/nice]? [like,/because it's] [[nasty/nice] [dungeon room type] description][/ or.../ or what]?
