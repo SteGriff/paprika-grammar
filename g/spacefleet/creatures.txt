@@ -1,0 +1,49 @@
+* creature description
+[!creature dwelling][[creature dwelling] creature type]
+
+* creature dwelling
+land
+sea
+air
+
+* land creature type
+mammal
+marsupial
+mole
+reptile
+
+* sea creature type
+fish
+crustacean
+
+* air creature type
+bird
+reptile
+
+# ---- Land traversal -----
+
+* land syn
+land
+earth
+ground
+
+* land creature traverse
+pounds
+sprints
+burrows
+
+# ----- Sea traversal -----
+
+* sea syn
+sea
+waves
+ocean
+
+* sea creature traverse
+sails [through/over]
+glides [through/over]
+swims through
+powers [through/over]
+paddles [through/over]
+
+

@@ -1,0 +1,260 @@
+* planet description
+
+# "this verdant planet's valleys are resplendent with lustrous moss"
+[!planet class]this [[planet class] planet adj] planet's [[planet class] planet areas] [[planet class] have] [[planet class] planet feature adj] [[planet class] planet features]
+
+# "it's arid dunes are strewn with dessicated shrubs"
+[!planet class]its [[planet class] planet adj] [[planet class] planet areas] [[planet class] have] [[planet class] planet feature adj] [[planet class] planet features]
+
+# "an icy planet, its ice sheets conceal hardy mammoths"
+[!planet class][a] [[planet class] planet adj] [planet syn][, its/ whose] [[planet class] planet areas] [[planet class] have] [[planet class] planet feature adj] [[planet class] planet features]
+
+# ----- Full. Stop. Types. -----
+
+# "an icy realm. lonely. frozen wastelands."
+[!planet class][a] [planet class] [planet syn]. [[planet class] planet adj#1][./, with] [[planet class] planet adj#2] [[planet class] planet areas].
+
+# "a cold place. chilly. lonely cliffs. think, "snow-buried hollows""
+[!planet class][a] [planet class] [planet syn]. [[planet class] planet adj#1][./, with] [[planet class] planet adj#2] [[planet class] planet areas]. think, "[[planet class] planet feature adj] [[planet class] planet features]"
+
+# ===== Grammar logic =====
+
+# ----- Planet master -----
+
+* planet class
+fine
+cold
+icy
+warm
+arid
+
+# ----- Helpers -----
+
+* planet syn
+planet
+realm
+place
+domain
+
+# ----- Fine (Temperate) -----
+
+* fine planet adj
+green
+verdant
+leafy
+plentiful
+lush
+temperate
+pleasant
+tenable
+comfortable
+
+* fine planet areas
+jungles
+forests
+valleys
+plains
+hills
+mountains
+rock formations
+
+* fine planet features
+shrubs
+plants
+trees
+groves
+vines
+moss[/es]
+lychen
+grass[/es]
+fruits
+crops
+
+* fine planet feature adj
+green
+blue
+pink
+violet
+golden
+splendid
+healthy
+dazzling
+captivating
+lustrous
+
+* fine have
+are resplendent with
+are [/gloriously ]carpeted with
+are [/gloriously ]coated with
+are deep in
+are redolent with
+are burgeoning with
+burst with
+have many
+
+# ----- cold -----
+
+* cold planet adj
+[somewhat/rather] cold
+chilly
+windy
+breezy
+lonely
+quiet
+austere
+snowy
+drizzly
+rainy
+cold and rainy
+frosty
+
+* cold planet areas
+wastelands
+glaciers
+plateaus
+ravines
+cliffs
+
+* cold planet features
+ruins
+civilisations
+hollows
+forests
+plantlife
+mammals
+
+* cold planet feature adj
+hail-marked
+snow-buried
+lost
+forgotten
+primal
+
+* cold have
+are scattered with
+are strewn with
+are home to 
+bear
+
+# ----- icy -----
+
+* icy planet adj
+[frighteningly/disconcertingly/untenably/deadly] cold
+frozen
+tundra
+barren
+lonely
+blood-chilling
+forlorn
+grey
+dead
+
+* icy planet areas
+wastelands
+ice [sheets/lakes]
+glaciers
+frozen [seas/oceans]
+plateaus
+ravines
+snowdrifts
+
+* icy planet features
+predators
+[/pack ]hunters
+mammoths
+nomads
+ruins
+[rocks/stones]
+
+* icy planet feature adj
+troubling
+troublesome
+deadly
+hardy
+frostbitten
+
+* icy have
+are scattered with
+are strewn with
+hide
+conceal
+bear
+expose
+
+# ----- Warm -----
+
+* warm planet adj
+warm
+warm and rainy
+sunny
+hot
+tropical
+swampy
+humid
+hot and wet
+
+* warm planet areas
+jungles
+rainforests
+hills
+groves
+lagunas
+beaches
+shores
+plateaus
+swamps
+
+* warm planet features
+vines
+trees
+creeping plants
+plants
+fruits
+
+* warm planet feature adj
+[fine planet feature adj]
+
+* warm have
+[fine have]
+
+# ----- Arid -----
+
+* arid planet adj
+arid
+hot and dry
+barren
+desert
+scorched
+bare
+sweltering
+rainless
+baked
+sun-parched
+
+* arid planet areas
+deserts
+wastelands
+plains
+dunes
+valleys
+rocks
+plateaus
+ravines
+
+* arid planet features
+bones
+twigs
+shrubs
+weeds
+stones
+remains
+soil
+
+* arid planet feature adj
+scorched
+baked
+dessicated
+parched
+
+* arid have
+[icy have]

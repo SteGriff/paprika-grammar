@@ -40,8 +40,12 @@ g/angry.txt
 
 g/tree-places.txt
 g/food.txt
+
 g/place-stuff.txt
-g/alien-dialogue.txt
+
+g/spacefleet/alien-dialogue.txt
+g/spacefleet/planets.txt
+g/spacefleet/creatures.txt
 
 g/school.txt
 g/verbs.txt
