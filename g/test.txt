@@ -1,0 +1,21 @@
+# N.b.
+# this file is intentionally NOT included
+# by the index.grammar file
+# It's just something I'm playing with
+
+* [class] test
+it's a [class] [[class] thing]
+[class]! [a] [[class] thing]
+
+* test2
+[[class] test]
+
+* class
+good
+bad
+
+* good thing
+dream
+
+* bad thing
+error
