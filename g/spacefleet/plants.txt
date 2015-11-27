@@ -1,0 +1,85 @@
+* small plant description
+a [small] [?colour] [plant] with [leaf adj], [?clustering adverb] [leaf hub pre] [leaves] 
+a [small] [plant] whose [?colour] [leaves] are [leaf adj] and [clustering adverb] [leaf hub pre]
+a [small] [plant] whose [leaf adj] [?colour] [leaves] are [clustering adverb] [leaf hub pre]
+a [small] [?colour] [plant] with [leaf adj] [leaves] 
+a [small] [?colour] [plant] with [leaf adj] [leaves], [leaf hub post]
+
+# ----- Plant overall -----
+
+* small
+small
+very small
+minute
+tiny
+tiny little
+micro
+[finger-/mouse-]sized
+diminutive
+miniscule
+miniature
+
+* plant
+plant
+flower
+shrub
+wort
+herb
+
+# ----- Leaves -----
+
+* leaf adj
+jagged
+round[/ed]
+spikey
+pointed
+jutting
+fractal
+fractally arranged
+bellowing
+hollow
+translucent
+heavy
+wispy
+upward
+curved
+long
+short
+patterned
+rolled
+
+* leaves
+leaves
+# These are grouped just to cheat the odds
+# to give us "leaves" more frequently
+[needles/petals]
+[fronds/shoots]
+
+
+# ----- Leaf clustering -----
+
+* clustering adverb
+loosely
+tightly
+neatly
+haphazardly
+uniformly
+randomly
+
+* leaf hub pre
+clustered
+interconnected
+conjoined
+stacked
+layered
+
+* leaf hub post
+[eminating/growing] from [a] [?stem type] [/central ]stem
+growing off [a] [?stem type] [/central ]stem
+
+* stem type
+short
+thick
+thin
+delicate
+hardy

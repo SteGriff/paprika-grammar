@@ -1,13 +1,10 @@
-* selected creature profile
-
-
 * creature description
 
 # "a quick mammal which digs in the ground"
-[!creature dwelling][a] [?creature modifier] [[creature dwelling] creature type][. it/ which] [[creature dwelling] creature traverses] the [[creature dwelling] syn].
+[!creature dwelling][a] [?creature modifier] [?[creature dwelling] adj] [[creature dwelling] creature type][. it/ which] [[creature dwelling] creature traverses] the [[creature dwelling] syn].
 
 # "a quick mammal which digs in the ground. it tracks prey patiently"
-[!creature dwelling][a] [?creature modifier] [[creature dwelling] creature type] which [[creature dwelling] creature traverses] the [[creature dwelling] syn]. it [does creature activity].
+[!creature dwelling][a] [?creature modifier] [?[creature dwelling] adj] [[creature dwelling] creature type] which [[creature dwelling] creature traverses] the [[creature dwelling] syn]. it [does creature activity].
 
 
 # ----- Helpers -----
@@ -42,7 +39,7 @@ scavenges
 observes 
 looks on 
 does its work 
-[guards/patrols] [territory/its home] 
+[guards/patrols] its [territory/home] 
 
 * powerful activity
 [fights/subdues/battles] [rivals/enemies]
@@ -60,7 +57,6 @@ silently
 astutely
 
 * powerfully
-powerfully
 decisively
 remorselessly
 effortlessly
@@ -73,21 +69,43 @@ land
 sea
 air
 
+* land adj
+terrestrial
+[ground-/land-]dwelling
+ground-based
+
+* sea adj
+aquatic
+[sea-/ocean-/water-]dwelling
+oceanic
+sea-faring
+
+* air adj
+flying
+aerial
+winged
+
 * land creature type
 mammal
 marsupial
 mole
 reptile
+rodent
+amphibian
+insect
 
 * sea creature type
 fish
 mammal
-
 crustacean
+amphibian
+insect
 
 * air creature type
 bird
 reptile
+rodent
+insect
 
 # ----- Land traversal -----
 
@@ -115,6 +133,10 @@ glides [through/over]
 swims through
 powers [through/over]
 paddles [through/over]
+undulates through
+cuts through
+flaps through
+strokes through
 
 # ----- Air -----
 
