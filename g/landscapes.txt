@@ -1,0 +1,245 @@
+* landscape description
+
+[!landscape class]a [[landscape class] landscape adj] [[landscape class] landscape area] [[landscape class] have] [[landscape class] landscape feature adj] [[landscape class] landscape features]
+
+# ===== Grammar logic =====
+
+# ----- landscape master -----
+
+* landscape class
+fine
+cold
+icy
+warm
+arid
+
+# ----- Helpers -----
+
+* landscape syn
+landscape
+realm
+place
+domain
+
+# ----- Fine (Temperate) -----
+
+* fine landscape adj
+green
+verdant
+leafy
+plentiful
+lush
+temperate
+pleasant
+tenable
+comfortable
+vine-tangled
+
+* fine landscape area
+jungle
+forest
+valley
+plain
+hill
+mountain
+rock formation
+
+* fine landscape features
+shrubs
+plants
+trees
+groves
+vines
+moss[/es]
+lychen
+grass[/es]
+fruits
+crops
+
+* fine landscape feature adj
+green
+blue
+pink
+violet
+golden
+splendid
+healthy
+dazzling
+captivating
+lustrous
+
+* fine have
+resplendent with
+[/gloriously ]carpeted with
+[/gloriously ]coated with
+deep in
+redolent with
+burgeoning with
+bursting with
+with many
+
+# ----- cold -----
+
+* cold landscape adj
+[somewhat/rather] cold
+chilly
+windy
+breezy
+lonely
+quiet
+austere
+snowy
+drizzly
+rainy
+cold and rainy
+frosty
+
+* cold landscape area
+wasteland
+glacier
+plateau
+ravine
+cliff
+
+* cold landscape features
+ruins
+civilisations
+hollows
+forests
+plantlife
+mammals
+
+* cold landscape feature adj
+hail-marked
+snow-buried
+lost
+forgotten
+primal
+
+* cold have
+scattered with
+strewn with
+home to 
+bearing
+
+# ----- icy -----
+
+* icy landscape adj
+[frighteningly/disconcertingly/untenably/deadly] cold
+frozen
+tundra
+barren
+lonely
+blood-chilling
+forlorn
+grey
+dead
+
+* icy landscape area
+wasteland
+ice [sheet/lake]
+glacier
+frozen [sea/ocean]
+plateau
+ravine
+
+* icy landscape features
+predators
+[/pack ]hunters
+mammoths
+nomads
+ruins
+[rocks/stones]
+
+* icy landscape feature adj
+troubling
+troublesome
+deadly
+hardy
+frostbitten
+
+* icy have
+scattered with
+strewn with
+hiding
+concealing
+bearing
+exposing
+
+# ----- Warm -----
+
+* warm landscape adj
+warm
+warm and rainy
+sunny
+hot
+tropical
+swampy
+humid
+hot and wet
+
+* warm landscape area
+jungle
+rainforest
+hill
+grove
+laguna
+beache
+shore
+plateau
+swamp
+
+* warm landscape features
+vines
+trees
+creeping plants
+plants
+fruits
+
+* warm landscape feature adj
+[fine landscape feature adj]
+
+* warm have
+[fine have]
+
+# ----- Arid -----
+
+* arid landscape adj
+arid
+hot and dry
+barren
+desert
+scorched
+bare
+sweltering
+rainless
+baked
+sun-parched
+
+* arid landscape area
+desert
+wasteland
+plain
+dune
+valley
+rock
+plateau
+ravine
+
+* arid landscape features
+bones
+twigs
+shrubs
+weeds
+stones
+remains
+soil
+
+* arid landscape feature adj
+scorched
+baked
+dessicated
+parched
+
+* arid have
+[icy have]

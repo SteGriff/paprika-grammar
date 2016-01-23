@@ -1,9 +1,9 @@
 * small plant description
-a [small] [?colour] [plant] with [leaf adj], [?clustering adverb] [leaf hub pre] [leaves] 
-a [small] [plant] whose [?colour] [leaves] are [leaf adj] and [clustering adverb] [leaf hub pre]
-a [small] [plant] whose [leaf adj] [?colour] [leaves] are [clustering adverb] [leaf hub pre]
-a [small] [?colour] [plant] with [leaf adj] [leaves] 
-a [small] [?colour] [plant] with [leaf adj] [leaves], [leaf hub post]
+[small] [?colour] [plant] with [leaf adj], [?clustering adverb] [leaf hub pre] [leaves]. [?plant reaction]
+[small] [plant] whose [?colour] [leaves] are [leaf adj] and [clustering adverb] [leaf hub pre]. [?plant reaction]
+[small] [plant] whose [leaf adj] [?colour] [leaves] are [clustering adverb] [leaf hub pre]. [?plant reaction]
+[small] [?colour] [plant] with [leaf adj] [leaves]. [?plant reaction]
+[small] [?colour] [plant] with [leaf adj] [leaves], [leaf hub post]. [?plant reaction]
 
 # ----- Plant overall -----
 
@@ -26,6 +26,23 @@ shrub
 wort
 herb
 
+* plant reaction
+[/really ][/not ]good to eat
+[flavour]-tasting
+[good/nice/pleasant] to look at
+[rather] [beautiful/pretty/ugly/plain/poisonous/dangerous]
+
+* flavour
+sweet
+bitter
+strong
+mild
+sour
+spicy
+tangy
+bland
+earthy
+
 # ----- Leaves -----
 
 * leaf adj
@@ -41,7 +58,9 @@ hollow
 translucent
 heavy
 wispy
-upward
+upward-turned
+skyward-raised
+sloped
 curved
 long
 short

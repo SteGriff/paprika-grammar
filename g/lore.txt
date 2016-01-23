@@ -1,10 +1,12 @@
 *lore tweet
 [remember that day when] [name] [lore]
-[?remember that day when] i [lore]
+[remember that day when] i [lore]
+i [lore]
 [remember that day when] i [good fate]
+i [good fate]
 [suddenly], [/the ][dark monster] appears [preposition] [you/me]
 [suddenly], [/the ][dark monster] appears [preposition] [you/me]! [urgent question]??
-[light monster] vs [dark monster] [who wins]
+[light monster] vs [dark monster]. [who wins]
 
 * who wins
 who wins??
@@ -28,7 +30,7 @@ defeated the [dark monster]
 
 *faced
 faced
-faced upto
+faced up to
 challenged
 took on
 

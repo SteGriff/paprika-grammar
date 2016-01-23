@@ -1,0 +1,55 @@
+
+
+
+# ---- Journey ----
+# Proof of concept for transitions between
+# different types of dungeon room
+
+* dungeon quest
+[!nasty/nice#1][!nasty/nice#2][!nasty/nice#3][!dungeon room type#1][!dungeon room type#2][!dungeon room type#3][[nasty/nice#1] [dungeon room type#1] description] [[dungeon room type#1]] which [[dungeon room type#1] to [dungeon room type#2]] a [[nasty/nice#2] [dungeon room type#2] description] [[dungeon room type#2]] which [[dungeon room type#2] to [dungeon room type#3]] a [[nasty/nice#3] [dungeon room type#3] description] [[dungeon room type#3]]
+
+*dungeon entry condition
+enter
+stumble [into/upon]
+find yourself in
+
+# ---- Cavern transfers ----
+
+* cavern to forest
+opens out into
+
+* cavern to room
+[gradually/suddenly] [forms/smooths out] into
+
+* cavern to cavern
+[same to same]
+
+# ---- Forest trans ----
+* forest to cavern
+[encloses upon/narrows to] the mouth of
+
+* forest to room
+parts to reveal
+reveals
+opens out to a clearing in which you find
+
+* forest to forest
+[same to same]
+
+# ---- Room trans ----
+
+* room to cavern
+contains a secret door to
+
+* room to forest
+is delapidated to the [front/rear/east/west], becoming
+
+* room to room
+[same to same]
+
+# ---- Common ----
+
+* same to same
+leads on to
+continues to
+continues to the [north/south/east/west] [as/becoming]

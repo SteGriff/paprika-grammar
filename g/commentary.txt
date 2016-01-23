@@ -103,13 +103,12 @@ speculates that
 
 * good news opinion
 it's [great] [?comment tail]
-it's [formal somewhat] [great] [?comment tail]
+it's [rather] [great] [?comment tail]
 
-* formal somewhat
-somewhat
-too
-rather
-very
+* rather
+[/really ]rather
+[/really ]very
+[/really ]quite
 
 * great
 great

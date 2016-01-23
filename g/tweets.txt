@@ -30,7 +30,10 @@
 [if you need me tweet]
 [verb tweet]
 [what if verb tweet]
+[make me x tweet]
 [alien dialogue tweet]
+[important keep tweet]
+[small plant tweet]
 
 * alien dialogue tweet
 "[alien dialogue]" -- [alien/space alien/space invader/space person]
@@ -55,3 +58,13 @@ is [[category]] [a] [real/] [category]?
 
 *what the tweet
 [what/why/how] [the/so/such] [dolf/pea/dog/ship/tweet/ham/egg]
+
+* important keep tweet
+it's important[/ always] to keep [thing to keep]
+always keep [thing to keep]
+make sure to keep [thing to keep]
+
+* small plant tweet
+it's a [small plant description]
+can you not see it's a [small plant description]
+[i'm/you're/he's/she's] [/more ]like a [small plant description]

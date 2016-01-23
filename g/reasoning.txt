@@ -34,9 +34,9 @@ take a break
 go home early
 
 *put your something somewhere
-Rest your [appendage] on this [furniture]
-Put your [appendage] on this [furniture]
-Feel this [furniture]
+rest your [appendage] on this [furniture]
+put your [appendage] on this [furniture]
+feel this [furniture]
 
 # -- Helper objects --
 *appendage

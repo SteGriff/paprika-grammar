@@ -92,6 +92,13 @@ grandad
 grandma
 grandpa
 
+* family members
+siblings
+cousins
+uncles
+aunts
+in-laws
+
 *gaming
 [card game]
 [video game]
@@ -126,3 +133,73 @@ rapping
 *child
 girl
 boy
+
+* body part
+# Hands and arms
+thumb
+finger
+hand
+wrist
+arm
+elbow
+shoulder blade
+# Head and neck
+neck
+head
+hair
+ear
+nose
+septum
+philtrum
+eye
+mouth
+tongue
+# Torso
+chest
+belly
+breastbone
+clavicle
+tummy
+abdomen
+# Legs and stuff
+[butt/bum]
+hip
+thigh
+knee
+calf
+ankle
+foot
+toe
+
+* body parts
+# Hands and arms
+thumbs
+fingers
+hands
+wrists
+armss
+elbows
+shoulder blades
+# Head and neck
+hair
+ears
+nose
+septum
+philtrum
+eyes
+mouth
+tongue
+# Torso
+breastbone
+clavicle
+tummy
+abdomen
+# Legs and stuff
+[butt/bum]
+hips
+thighs
+knees
+calves
+ankles
+feet
+toes

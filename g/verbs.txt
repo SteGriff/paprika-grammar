@@ -33,6 +33,7 @@ feel
 try
 leave
 call
+keep
 
 # ----- be -----
 
@@ -146,10 +147,13 @@ to [school subject]
 about the matrix
 the truth
 your friends
-your own phone number
 your food groups
 your alphabet
 your elements
+no limits
+no fear
+yourself
+your own mind
 
 # ----- take -----
 
@@ -342,3 +346,32 @@ your [family member]
 work
 the hospital
 the police
+
+# ----- keep -----
+
+* thing to keep
+your eyes on the [prize/goal]
+[your/all] [family members] [way to keep something]
+your [body parts] [way to keep something]
+your [body part] [way to keep something]
+your [friends/enemies] [way to keep something]
+at least one friend for yourself
+the fires burning
+telling [the truth/nice stories/it how it is]
+[trying/going]
+moving[/ forward]
+[secrets a secret/it secret, keep it safe]
+[all foodstuff] in the [fridge/freezer/cupboard/fruit bowl]
+# [skill] comes out like "dancing" or "writing poetry"
+[skill]
+
+* way to keep something
+on [side/board]
+on your side
+[friendly/sympathetic] to your cause
+in the dark
+close
+[close or closer/closer or close] or something
+in line
+fresh
+well informed

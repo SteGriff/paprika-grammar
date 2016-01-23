@@ -26,6 +26,8 @@ g/cv.txt
 
 g/proverb.txt
 g/dungeons.txt
+g/dungeon-master.txt
+g/landscapes.txt
 
 g/reasoning.txt
 g/shoutout.txt
@@ -42,11 +44,6 @@ g/tree-places.txt
 g/food.txt
 
 g/place-stuff.txt
-
-g/spacefleet/alien-dialogue.txt
-g/spacefleet/planets.txt
-g/spacefleet/creatures.txt
-g/spacefleet/plants.txt
 
 g/school.txt
 g/verbs.txt

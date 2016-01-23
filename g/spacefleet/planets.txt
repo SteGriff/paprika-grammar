@@ -3,7 +3,7 @@
 # "this verdant planet's valleys are resplendent with lustrous moss"
 [!planet class]this [[planet class] planet adj] planet's [[planet class] planet areas] [[planet class] have] [[planet class] planet feature adj] [[planet class] planet features]
 
-# "it's arid dunes are strewn with dessicated shrubs"
+# "its arid dunes are strewn with dessicated shrubs"
 [!planet class]its [[planet class] planet adj] [[planet class] planet areas] [[planet class] have] [[planet class] planet feature adj] [[planet class] planet features]
 
 # "an icy planet, its ice sheets conceal hardy mammoths"
