@@ -1,0 +1,41 @@
+* life choices tweet
+[life choices tweet 1]
+[life choices tweet 2]
+
+* life choices tweet 1
+# 	so, out of interest, how often does everyone else think, "so this is the life i chose"
+[now/um/ok/ok now/well], [how often does everyone think] [so this is my life]
+[now/um/ok/ok now/well][, out of interest/, just out of interest], [how often does everyone think] [so this is my life]
+[out of interest/just out of interest], [how often does everyone think] [so this is my life]
+
+* life choices tweet 2
+# 	don't choose your house for life at 2am
+[don't choose [your/a] [thing to choose][/ for life] [bad time to choose]
+
+# ----- Parts -----
+
+* bad time to choose
+at [2am/3am]
+when you're [hungry/angry/crying]
+
+* how often does everyone think
+how often [do you guys/does everyone/does everyone else] think
+
+* so this is my life
+[how is this/so this is] my [thing to choose]
+[how is this/so this is] the [thing to choose] i chose
+
+* thing to choose
+life
+dog
+cat
+school
+job
+career
+family
+horse
+house
+street
+neighbourhood
+friend
+

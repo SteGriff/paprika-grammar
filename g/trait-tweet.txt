@@ -1,0 +1,7 @@
+* trait tweet
+[/my /character ] trait: getting [something that happens to you] often
+
+* something that happens to you
+lost
+hurt
+injured

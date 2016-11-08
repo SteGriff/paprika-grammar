@@ -1,0 +1,18 @@
+* band name
+[name] and the [things]
+
+* things
+[injuries]
+
+* injuries
+[burns]
+
+* burns
+[burn type] burns
+
+* burn type
+chemical
+friction
+first degree
+third degree
+sick

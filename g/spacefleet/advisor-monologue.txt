@@ -1,0 +1,181 @@
+* space fleet advice
+
+# -- General trash talk --
+[What/It's] [a] [beautiful] [/new ][day/week]! [I'm ready/Time] to [exterminate] [our enemies]!
+I love being [home race]. [i love it so much i have to] [exterminate] everyone else
+I love [home planet]. [i love it so much i have to] [exterminate] everyone else
+Are you feeling [inspired] by your [love] for being [home race]?
+[home planet] [inspires] me with such [love] for [home race]s
+[home planet], [great] homeland! [Greater than] all other [worlds]!
+Let's [kick alien butt]
+Let's fight for [home race]s and our [beautiful] [home planet]!
+I am [at your service/ready for orders/ready for the fight]
+
+# -- Build better ships --
+[We/Perhaps we/Maybe we] [should] [build] [/bigger and ][better] [ships]
+I wonder [if/whether] [there is/there's/we have] [budget/space/room] to [build] [/bigger and ][better] [ships]
+[I'd like to see] [/bigger and ][better] [ships] to [exterminate] [our enemies]
+
+# -- Research --
+Science is its own reward. Also [guns]. Those are [also the reward/another reward].
+One way to get what we want is [guns]. More [guns].
+[More/Bigger] [guns]. [Better/Stronger] [guns]
+Research is [important]. 
+
+# =============================
+
+# ---- Stubs for injection ----
+* home race
+Terran
+
+* home planet
+Earth
+
+# ---- Thesaurus ----
+
+* important
+important
+crucial
+pivotal
+
+* guns
+guns
+bombs
+missiles
+lasers
+weapons
+death rays
+
+* should
+should
+could
+ought to
+
+* build
+build
+design
+research
+create
+
+* better
+better
+stronger
+faster
+mightier
+
+* ships
+ships
+battleships
+destroyers
+spaceships
+space fighters
+cruisers
+battle cruisers
+
+* exterminate
+exterminate
+terminate
+overthrow
+defeat
+destroy
+conquer
+annihilate
+crush
+kill
+blow up
+
+* inspired
+inspired
+motivated
+overjoyed
+driven
+spurred
+
+* inspires
+inspires
+fills
+motivates
+
+* love
+love
+passion
+patriotism
+
+* beautiful
+beautiful
+glorious
+wonderful
+bright
+valiant
+noble
+
+* galactic
+galactic
+space
+alien
+foreign
+exotic
+gross
+
+* great
+great
+mighty
+strong
+
+* Greater than
+Greater than
+Above
+Better than
+Excelling
+
+* worlds
+worlds
+planets
+realms
+lands
+
+* kick alien butt
+kick alien butt
+[exterminate] all aliens
+[exterminate] [our enemies]
+
+# ---- Helpers ----
+
+* I'd like to see
+I'd [like/love] to see
+[I am/I'm] eager [to see/for]
+I'm [eager/prepared] to [embrace/welcome]
+I'm [hungry/thirsty] for
+I [hunger/thirst] for
+
+* i love it so much i have to
+[So much. It/I love it so much it/It] [/just ]makes me want to
+[So much. I/I love it so much I/I] [/just ][have to/must/wanna/gotta]
+
+* our enemies
+[some/those] [galactic] [leader enemies]
+our [galactic] [enemy rivals]
+our [enemy rivals]
+
+# overthrow some leaders
+* leader enemies
+leaders
+enemies
+adversaries
+competitors
+rivals
+contenders
+races
+planets
+systems
+challengers
+
+# overthrow our enemies
+* enemy rivals
+enemies
+rivals
+competitors
+adversaries
+challengers
+opposition
+

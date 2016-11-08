@@ -1,0 +1,25 @@
+* colour
+white
+grey
+black
+brown
+red
+orange
+yellow
+green
+blue
+indigo
+violet
+purple
+mauve
+periwinkle
+dusky pink
+sienna
+teal
+lavendar
+magnolia
+
+* rather
+[/really ]rather
+[/really ]very
+[/really ]quite
