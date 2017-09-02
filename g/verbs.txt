@@ -7,6 +7,9 @@
 what if I [verb] [thing to [verb]]
 what if I [verb#1] [thing to [verb#1]#a]. what if I [verb#2] [thing to [verb#2]#b].
 
+* mixed up verb tweet
+[verb#1] [thing to [verb#1]#a], [verb#2] [thing to [verb#1]#b]
+
 * verb
 be
 have
@@ -34,6 +37,33 @@ try
 leave
 call
 keep
+
+* active verb
+do
+say
+get
+make
+go
+know
+take
+see
+come
+think
+look
+want
+give
+use
+find
+tell
+ask
+work
+seem
+feel
+try
+leave
+call
+keep
+
 
 # ----- be -----
 
@@ -121,10 +151,30 @@ things
 things better
 it better
 up
+it up
 a mess
 a lot of noise
 some noise
+yourself [thing to make yourself]
 your way [forward/up]
+like [an] [animal]
+[a] better [invention]
+
+* thing to make yourself
+useful
+helpful
+scarce
+disappear
+appear
+
+* invention
+robot [dog/frog]
+waffle iron
+sausage maker
+sandwich grill
+coffee machine
+juice maker
+toastie maker
 
 # ----- go -----
 
@@ -140,6 +190,7 @@ beyond
 ahead
 to town
 to [school subject]
+about your business
 
 # ----- know -----
 
@@ -322,6 +373,7 @@ your best
 to succeed
 and try again
 to [verb#try]
+to [verb#try] [thing to [verb#try]#thing]
 
 # ----- leave -----
 

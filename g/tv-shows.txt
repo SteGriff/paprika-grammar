@@ -1,9 +1,21 @@
 *talk about tv
-i watch [tv series] just for [[tv series] character][ tbh/].
-my [family member] is in [tv series].
-my fave character in [tv series] is [[tv series] character].
-[!tv series][!good]for [[good] /][storys/stories] about [[tv series] character] in [tv series] please watch [it/the show/[tv series]]
-do they still make [tv series]
+i watch [tv series] just for [[tv series] character][ tbh/]
+my [family member] [is/IS/WAS/REALLY WAS] in [tv series]
+[!tv series][!good]for [[good] /][storys/stories] about [[tv series] character][/ in [tv series]] please [/just ]watch [it/the show/[tv series]]
+[do they still make] [tv series]
+[talk about tv character]
+
+*talk about tv character
+[!tv series][[tv series] character] from [tv series]...[/ hmm.../ i guess.../ ehhhh...]
+you [know/remember]... [!tv series][[tv series] character] from [tv series]...[/ help me out here.../ give me a break...]
+my [fave/best] [character/actor] in [tv series] is [[tv series] character]
+
+*do they still make
+do they still make[/ new eps of]
+they still make[/ new eps of]
+they still making[/ new eps of]
+they still [filming/shooting][/ new eps of]
+they're [making/filming/shooting][/ new eps of]
 
 *tv series
 simpsons
@@ -21,19 +33,23 @@ downton abbey
 *simpsons character
 homer
 marge
-the boy
-the girl
-the baby
+the boy one
+the girl one
+the baby one
 
 *pokemon character
-the adventure boy
+the kid
 the mouse
+gym brows
+squirtawhirl
+tentaquil
+madkips
 
 *the middle character
 janitor
 braces girl
 axl rose
-whisper boy
+whispering kid
 
 *scrubs character
 zach braff
@@ -67,12 +83,12 @@ ronin dex
 science woman
 
 *star trek character
-robot
-the bald captain
-the fighty captain
-science man
-the lady doctor
-the rude doctor
+robot guy
+bald captain
+[fighty/shouty] captain
+science guy
+lady doctor
+rude doctor
 
 *firefly character
 the nice captain
@@ -90,3 +106,4 @@ comics guy
 posh man
 friendly butler
 fiesty girl
+posh spice

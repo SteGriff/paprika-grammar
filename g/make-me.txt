@@ -3,7 +3,11 @@
 * make me x tweet
 [effect me] or [effect me#1], i just want you to [be something]
 [effect me]. [effect me#1]. [go on]
+[can you/please/you gotta] [effect me]
 [can you/please] [effect me] and [be ok with it]
+
+* go on tweet
+[go on#1][/...] [?go on#2][/...] [?go on#3]
 
 * go on
 go on
@@ -12,6 +16,7 @@ go for it
 do it
 do iiiittt
 go!
+let's do this
 
 * effect me
 warm me up

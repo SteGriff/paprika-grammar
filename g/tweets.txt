@@ -29,11 +29,19 @@
 [place stuff tweet]
 [if you need me tweet]
 [verb tweet]
+[verb tweet]
 [what if verb tweet]
+[mixed up verb tweet]
+[mixed up verb tweet]
 [make me x tweet]
+[go on tweet]
 [alien dialogue tweet]
 [important keep tweet]
 [small plant tweet]
+[creature tweet]
+[creature activity tweet]
+[smeagley tweet]
+[invention tweet]
 
 * alien dialogue tweet
 "[alien dialogue]" -- [alien/space alien/space invader/space person]
@@ -54,17 +62,43 @@ where are my [p frequently lost item]?!
 *confused question
 [!category] Is [[category]] even a real [category]?
 What is [a] [category]? Is [[category]] [a] [category]?
-is [[category]] [a] [real/] [category]?
+[!category]is [[category]] [a] [real/] [category]?
 
 *what the tweet
-[what/why/how] [the/so/such] [dolf/pea/dog/ship/tweet/ham/egg]
+[what/why/how/when/who] [the/so/such/this/that/do] [dolf/pea/dog/ship/tweet/ham/egg/koi/plum/choop][//s]
 
 * important keep tweet
-it's important[/ always] to keep [thing to keep]
-always keep [thing to keep]
-make sure to keep [thing to keep]
+it's important[/ always] to keep[/...] [thing to keep]
+[always/make sure to] keep[/...] [thing to keep]
 
 * small plant tweet
-it's a [small plant description]
-can you not see it's a [small plant description]
-[i'm/you're/he's/she's] [/more ]like a [small plant description]
+[/it's ]a [small plant description]
+[can you not/can't you] [see/tell] it's a [small plant description]
+[something is] [/more /kinda ]like a [small plant description]
+
+* creature tweet
+[creature description]
+[creature description] that's [you/him/her/the guy]
+[something is] [/more /kinda ]like a [creature description]
+
+* something is
+i'm
+you're
+he's
+she's
+it's
+
+* invention tweet
+# invention is from verbs.txt
+yes I did [/originally][invent/create/reinvent/envision/reimagine] the [invention]
+[me/myself], [father/creator/inventor/originator] of the [invention]
+
+* smeagley tweet
+# I swims through the sea
+[!creature dwelling]I [[creature dwelling] creature traverses] the [creature dwelling]
+# I swims through the sea, I patrols its home carefully
+[!creature dwelling]I [[creature dwelling] creature traverses] the [creature dwelling], I [does creature activity]
+
+* creature activity tweet
+it [does creature activity]
+[!creature dwelling]it [[creature dwelling] creature traverses] the [creature dwelling]
