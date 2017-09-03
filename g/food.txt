@@ -8,7 +8,7 @@
 [recipe]
 
 * food preference
-I like my [all foodstuff] [not delicious]
+[i like/love to have/gotta have] my [all foodstuff] [not delicious]
 [all food should be/food should always be] [cooked] [until ready]
 
 * invented food

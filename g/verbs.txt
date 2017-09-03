@@ -4,8 +4,8 @@
 [verb#1] [thing to [verb#1]#a] and [you might/you could] [verb#2] [thing to [verb#2]#b]
 
 * what if verb tweet
-what if I [verb] [thing to [verb]]
-what if I [verb#1] [thing to [verb#1]#a]. what if I [verb#2] [thing to [verb#2]#b].
+what if i [verb] [thing to [verb]]
+what if i [verb#1] [thing to [verb#1]#a]. what if i [verb#2] [thing to [verb#2]#b].
 
 * mixed up verb tweet
 [verb#1] [thing to [verb#1]#a], [verb#2] [thing to [verb#1]#b]

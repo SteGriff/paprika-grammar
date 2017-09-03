@@ -8,6 +8,10 @@
 [tweet pragma]
 [tweet pragma]
 [tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[once again] [tweet pragma]
 [tweet pragma#1] [and/so] [tweet pragma#2]
 
 * tweet pragma
@@ -28,7 +32,7 @@
 [dungeon tweet]
 [gossip tweet]
 [proverb interrupted tweet]
-[I play music tweet]
+[i play music tweet]
 [made-up music tweet]
 [shout out tweet]
 [what the tweet]
@@ -57,9 +61,18 @@
 [invention tweet]
 [landscape tweet]
 
+* once again
+once again,
+i must remind you,
+again,
+remember,
+look,
+once more,
+for the last time,
+
 * alien dialogue tweet
-"[alien dialogue]" -- [alien/space alien/space invader/space person]
-[alien dialogue] haha [jk/kidding/jokes]
+"[alien dialogue]" -- [an alien/a space alien/a space invader/a space person][//, probably]
+[alien dialogue] [haha/.../haaa...] [/still /again, ][jk/kidding/jokes/joking]
 
 *pre-ramble tweet
 the [problem/effects/condition] started [at recent time and place]
@@ -75,7 +88,7 @@ where are my [p frequently lost item]?!
 
 *confused question
 [!category] is [[category]] even a real [category]?
-what is [a] [category]? Is [[category]] [a] [category]?
+what is [a] [category]? is [[category]] [a] [category]?
 [!category]is [[category]] [a] [real/] [category]?
 
 *what the tweet
@@ -104,14 +117,14 @@ it's
 
 * invention tweet
 # invention is from verbs.txt
-yes I did [/originally ][invent/create/reinvent/envision/reimagine] the [invention]
-[me/myself], [father/creator/inventor/originator] of the [invention]
+[yes i did/it's true i did/i really did] [/originally ][invent/create/reinvent/envision/reimagine] the [invention]
+[/this is /here's /pictured: /featured: ][me/myself], [father/creator/inventor/originator] of the [invention]
 
 * smeagley tweet
-# I swims through the sea
+# i swims through the sea
 [!creature dwelling]i [[creature dwelling] creature traverses] the [creature dwelling]
-# I swims through the sea, I patrols its home carefully
-[!creature dwelling]i [[creature dwelling] creature traverses] the [creature dwelling], I [does creature activity]
+# i swims through the sea, i patrols its home carefully
+[!creature dwelling]i [[creature dwelling] creature traverses] the [creature dwelling], i [does creature activity]
 
 * creature activity tweet
 it [does creature activity]

@@ -34,7 +34,7 @@ dog
 horse
 sheep
 
-#Something you PLAY: "I play football" not "I play swimming"
+#Something you PLAY: "i play football" not "i play swimming"
 *sport
 badminton
 baseball

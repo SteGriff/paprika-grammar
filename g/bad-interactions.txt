@@ -28,10 +28,16 @@ heart rate
 
 *female weird question
 what fragrance she's wearing
+what deodorant she uses
 her exact [biometric]
+her favourite pokemon
+her favourite kind of [animal]
 
 *male weird question
 what fragrance he's wearing
+what deodorant he uses
 what colour his underwear is
 his exact [biometric]
 his exact address
+his favourite pokemon
+his favourite kind of [animal]

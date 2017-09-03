@@ -1,20 +1,20 @@
 * space fleet advice
 
 # -- General trash talk --
-[What/It's] [a] [beautiful] [/new ][day/week]! [I'm ready/Time] to [exterminate] [our enemies]!
-I love being [home race]. [i love it so much i have to] [exterminate] everyone else
-I love [home planet]. [i love it so much i have to] [exterminate] everyone else
+[What/It's] [a] [beautiful] [/new ][day/week]! [i'm ready/Time] to [exterminate] [our enemies]!
+i love being [home race]. [i love it so much i have to] [exterminate] everyone else
+i love [home planet]. [i love it so much i have to] [exterminate] everyone else
 Are you feeling [inspired] by your [love] for being [home race]?
 [home planet] [inspires] me with such [love] for [home race]s
 [home planet], [great] homeland! [Greater than] all other [worlds]!
 Let's [kick alien butt]
 Let's fight for [home race]s and our [beautiful] [home planet]!
-I am [at your service/ready for orders/ready for the fight]
+i am [at your service/ready for orders/ready for the fight]
 
 # -- Build better ships --
 [We/Perhaps we/Maybe we] [should] [build] [/bigger and ][better] [ships]
-I wonder [if/whether] [there is/there's/we have] [budget/space/room] to [build] [/bigger and ][better] [ships]
-[I'd like to see] [/bigger and ][better] [ships] to [exterminate] [our enemies]
+i wonder [if/whether] [there is/there's/we have] [budget/space/room] to [build] [/bigger and ][better] [ships]
+[i'd like to see] [/bigger and ][better] [ships] to [exterminate] [our enemies]
 
 # -- Research --
 Science is its own reward. Also [guns]. Those are [also the reward/another reward].
@@ -141,16 +141,16 @@ kick alien butt
 
 # ---- Helpers ----
 
-* I'd like to see
-I'd [like/love] to see
-[I am/I'm] eager [to see/for]
-I'm [eager/prepared] to [embrace/welcome]
-I'm [hungry/thirsty] for
-I [hunger/thirst] for
+* i'd like to see
+i'd [like/love] to see
+[i am/i'm] eager [to see/for]
+i'm [eager/prepared] to [embrace/welcome]
+i'm [hungry/thirsty] for
+i [hunger/thirst] for
 
 * i love it so much i have to
-[So much. It/I love it so much it/It] [/just ]makes me want to
-[So much. I/I love it so much I/I] [/just ][have to/must/wanna/gotta]
+[So much. It/i love it so much it/It] [/just ]makes me want to
+[So much. i/i love it so much i/i] [/just ][have to/must/wanna/gotta]
 
 * our enemies
 [some/those] [galactic] [leader enemies]

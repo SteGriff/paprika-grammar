@@ -1,7 +1,7 @@
 # N.b.
 # this file is intentionally NOT included
 # by the index.grammar file
-# It's just something I'm playing with
+# It's just something i'm playing with
 
 * [class] test
 it's a [class] [[class] thing]
