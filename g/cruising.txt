@@ -1,5 +1,12 @@
 *just cruising
-[!terrain]I [traverse [terrain]] [by/past/through] [on/in] my [ride-[on/in] [terrain] vehicle], spraying [[terrain] feature] into your [astonished] face
+[!terrain]i [traverse [terrain]] [by/past/through] [on/in] my [ride-[on/in] [terrain] vehicle]
+[!terrain]i [traverse [terrain]] [by/past/through] [on/in] my [ride-[on/in] [terrain] vehicle], [spraying] [[terrain] feature] into your [astonished] face
+
+* spraying
+spraying
+blasting
+projecting
+expelling
 
 * astonished
 astonished
@@ -65,27 +72,37 @@ soil
 stones
 
 *ride-in air vehicle
-F11
-Eurofighter
-Airbus
-747
+[/personal /private ]f35 lightning
+[/personal /private ]eurofighter
+[/personal /private ]airbus
+[/personal /private ]747
+[/personal /private ]fighter jet
+[/personal /private ]spacex rocket
+[/personal /private ]thunderbird
 
 *ride-on air vehicle
 guided missile
 nuke
 hoverboard
+spacex rocket
+rocketship
+thunderbird
 
 *ride-in road vehicle
-Astra
-Land Rover
+astra
+[land/range] rover
+canyonero
 transit van
-M3
-Audi TT
+m3
+audi tt
+humvee
 
 *ride-on road vehicle
-Harley
-BMX
-Kawasaki
+harley
+bmx
+kawasaki
+hoverboard
+segway
 
 *ride-in sea vehicle
 speedboat
@@ -98,10 +115,16 @@ jet ski
 catamaran
 
 *ride-in mud vehicle
-Range Rover
-ATV
+[range/land] rover
+atv
+all terrain badboy
 armoured personnel carrier
 tank
 
 *ride-on mud vehicle
 quadbike
+enormous horse
+clydesdale
+dirtbike
+mountain bike
+segway
