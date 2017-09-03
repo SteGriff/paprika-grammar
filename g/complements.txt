@@ -1,10 +1,22 @@
-*complement tweet
-[complement]
+* complement tweet
+[/you're ][very] [skilled at ability][?i mean it]
+[i admire] how [skilful you are at ability][?i mean it]
+[/you're ][somewhat good trait][?i mean it]
 
-* complement
-you're [very] [skilled at ability]
-i admire how [skilful you are at ability]
-you're [somewhat good trait]
+* i mean it
+[./, and/...] i meant [it/that]
+[,/./...] sincerely
+[,/./...] seriously
+[,/./...] for real[/s]
+[,/./...] really
+[,/./...] for true
+
+* i admire
+i admire
+i love
+just lovin
+just admirin
+[very] surprised at 
 
 * very
 very
@@ -14,6 +26,7 @@ wicked
 too
 so
 rather
+pretty
 auspiciously
 outrageously
 super
@@ -35,17 +48,19 @@ skilful you are at [skill]
 [doing art]
 
 *weekending
-paintballing
-partying
-go-karting
+paintball
+partying[/ hard]
+go karts
 skydiving
-hang-gliding
+hang gliders
 surfing
 dancing
 
 * doing art
+doing art
+art and stuff
 drawing
 painting
 sculpting
-colouring
+colouring[/ in]
 sketching

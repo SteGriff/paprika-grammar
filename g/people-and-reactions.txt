@@ -1,15 +1,11 @@
 * gossip tweet
-[gossip] [?gossip commentary]
+[male name][/? he] [did something interesting]
+[male name], [male name], [did something interesting]
+[female name][/? she] [did something interesting]
+[female name], [female name], [did something interesting]
+[/he /she ][did something interesting#1], [did something interesting#2]
 
 # ----- Dictionary -----
-
-* kinda
-kind of
-kinda
-pretty
-so
-really[ /quite]
-very
 
 *infant
 child
@@ -36,6 +32,12 @@ is [somewhat trait]
 *somewhat bad trait
 [a bit] [bad trait]
 [a bit] too [bad trait]
+
+* a bit
+a bit
+a little
+rather
+kind of
 
 *bad trait
 selfish
@@ -80,19 +82,32 @@ articulate
 eloquent
 well-prepared
 
-*does good things
+* does good things
 volunteers at the [charity place]
 [looks after] [the vulnerable]
+fights [bad thing]
+fights for [good thing]
 
-*does bad things
-hurts people
+* good thing
+freedom
+justice
+truth
+love
+goodness
+mercy
+
+* bad thing
+cancer
+nazis
+injustice
+inequality
 
 *looks after
 looks after
 takes care of
 looks out for
 spends time with
-cares a lot for
+cares [/a lot ]for
 
 *the vulnerable
 the homeless
@@ -101,22 +116,16 @@ orphans
 the orphans
 old folks
 the old folks
-injured animals
+injured [animals/birds/dogs]
 
 *charity place
-the charity shop
-the orphanage
-the shelter
-the soup kitchen
-the rescue centre
-the hospice
-the old folks' home
-
-*gossip
-did you hear about [male name]? He [did something interesting]
-did you hear about [female name]? She [did something interesting]
-I notice [name] [did something interesting]
-Apparently [name] [did something interesting]
+charity shop
+orphanage
+shelter
+soup kitchen
+rescue centre
+hospice
+old folks' home
 
 *did something interesting
 adopted [adoptee]

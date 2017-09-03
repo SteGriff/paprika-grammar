@@ -1,4 +1,16 @@
-*tweet
+* tweet
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma#1] [and/so] [tweet pragma#2]
+
+* tweet pragma
 [complement tweet]
 [feeling ill tweet]
 [item event phrase]
@@ -25,6 +37,7 @@
 [food tweet]
 [recipe tweet]
 [not relaxing tweet]
+[themes before animals tweet]
 [pre-ramble tweet]
 [place stuff tweet]
 [if you need me tweet]
@@ -42,6 +55,7 @@
 [creature activity tweet]
 [smeagley tweet]
 [invention tweet]
+[landscape tweet]
 
 * alien dialogue tweet
 "[alien dialogue]" -- [alien/space alien/space invader/space person]
@@ -60,8 +74,8 @@ where is my [s frequently lost item]?!
 where are my [p frequently lost item]?!
 
 *confused question
-[!category] Is [[category]] even a real [category]?
-What is [a] [category]? Is [[category]] [a] [category]?
+[!category] is [[category]] even a real [category]?
+what is [a] [category]? Is [[category]] [a] [category]?
 [!category]is [[category]] [a] [real/] [category]?
 
 *what the tweet
@@ -90,15 +104,21 @@ it's
 
 * invention tweet
 # invention is from verbs.txt
-yes I did [/originally][invent/create/reinvent/envision/reimagine] the [invention]
+yes I did [/originally ][invent/create/reinvent/envision/reimagine] the [invention]
 [me/myself], [father/creator/inventor/originator] of the [invention]
 
 * smeagley tweet
 # I swims through the sea
-[!creature dwelling]I [[creature dwelling] creature traverses] the [creature dwelling]
+[!creature dwelling]i [[creature dwelling] creature traverses] the [creature dwelling]
 # I swims through the sea, I patrols its home carefully
-[!creature dwelling]I [[creature dwelling] creature traverses] the [creature dwelling], I [does creature activity]
+[!creature dwelling]i [[creature dwelling] creature traverses] the [creature dwelling], I [does creature activity]
 
 * creature activity tweet
 it [does creature activity]
 [!creature dwelling]it [[creature dwelling] creature traverses] the [creature dwelling]
+
+* landscape tweet
+[landscape description]
+[cower before] [landscape description]
+[this site][:/.../,] [landscape description]
+[/here is /here we see ][landscape description]

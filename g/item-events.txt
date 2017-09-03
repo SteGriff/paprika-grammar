@@ -1,7 +1,7 @@
 # ----- Implementations -----
 
 *item event phrase
-[My/] [thing] [did [thing] action] [?recently], [?item event exclamation]
+[my /][thing] [did [thing] action] [?recently], [?item event exclamation]
 
 * thing doing thing
 [thing] [doing [thing] action]
@@ -148,5 +148,3 @@ cried all day
 spewed a rainbow
 made a rainbow
 gave me gold
-
-

@@ -1,6 +1,6 @@
 * landscape description
 
-[!landscape class]a [[landscape class] landscape adj] [[landscape class] landscape area] [[landscape class] have] [[landscape class] landscape feature adj] [[landscape class] landscape features]
+[!landscape class][a] [[landscape class] landscape adj] [[landscape class] landscape area] [[landscape class] have] [[landscape class] landscape feature adj] [[landscape class] landscape features]
 
 # ===== Grammar logic =====
 

@@ -7,6 +7,9 @@
 [p relaxing thing] [p doesn't even work] [?it just makes me angry]
 [forget about] [?useless] [p relaxing thing]. [/they ][p is not relaxing at all]
 
+* themes before animals tweet
+[forget about] [cute animals], [here's a/try this] [soft theme]
+
 *forget about
 forget about
 forget
