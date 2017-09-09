@@ -2,7 +2,7 @@
 i watch [tv series] just for [[tv series] character][ tbh/]
 my [family member] [is/IS/WAS/REALLY WAS] in [tv series]
 [!tv series][!good]for [[good] /][storys/stories] about [[tv series] character][/ in [tv series]] please [/just ]watch [it/the show/[tv series]]
-[do they still make] [tv series]
+[do they still make] [tv series][/?]
 [talk about tv character]
 
 *talk about tv character
@@ -29,6 +29,9 @@ star trek
 firefly
 big bang theory
 downton abbey
+sailor moon
+regular show
+stevey universe
 
 *simpsons character
 homer
@@ -107,3 +110,24 @@ posh man
 friendly butler
 fiesty girl
 posh spice
+
+* sailor moon character
+the sailor
+the moon
+sailor... [moon/mercy/murcury/venus/pluto/jupter/saturn/neptune][/?/??]
+[/uhh... ]the... [clever/fancy/savvy/loud/quiet] one
+
+* regular show character
+the racoon
+the mouse
+the bird
+the blue thing
+the gumball guy
+the vending machine
+
+* stevey universe
+stevey
+the mum
+the sisters
+ruby
+topaz
