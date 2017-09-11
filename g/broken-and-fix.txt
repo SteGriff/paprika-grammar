@@ -1,0 +1,102 @@
+* cant x what isnt y tweet
+[!condition][/you ]can't [fix [condition]] [what isn't/it if it isn't] [condition][?doubtful trail]
+[!condition][unable/failed] to [fix [condition]]: not [condition]
+[/i'm /yes i am ][condition][./.../,] [/please ][fix [condition]] me
+[not/it isn't] [/even ][condition][;/,/...] [don't wanna/can't/refusing to] [fix [condition]] it
+
+* doubtful trail
+[.../,] [/or ]can you?
+[.../,] [i think/surely/right?]
+
+* condition
+cold
+broken
+sunk
+wrong
+for sale
+hot
+dirty
+messy
+floating
+connected
+visible
+audible
+online
+fragile
+hungry
+happening
+
+
+* fix cold
+heat
+warm
+reheat
+cook
+
+* fix broken
+fix
+mend
+hack
+repair
+service
+
+* fix sunk
+raise
+lift
+float
+
+* fix wrong
+right
+correct
+
+* fix for sale
+buy
+purchase
+acquire
+ask for
+
+* fix hot
+cool
+chill
+
+* fix dirty
+clean
+wipe
+
+* fix messy
+tidy
+clear up
+
+* fix floating
+sink
+
+* fix connected
+power
+activate
+switch
+
+* fix visible
+see
+talk to
+look at
+
+* fix audible
+hear
+listen to
+
+* fix online
+look at
+download
+stream
+
+* fix fragile
+break
+smash
+
+* fix hungry
+feed
+fill
+
+* fix happening
+enjoy
+experience

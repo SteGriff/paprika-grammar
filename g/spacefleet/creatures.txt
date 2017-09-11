@@ -1,10 +1,10 @@
 * creature description
 
 # "a quick mammal which digs in the ground"
-[!creature dwelling][a] [?creature modifier] [?[creature dwelling] adj] [[creature dwelling] creature type][. it/ which] [[creature dwelling] creature traverses] the [[creature dwelling] syn].
+[!creature dwelling][a] [?creature modifier] [?[creature dwelling] adj] [[creature dwelling] creature type][. it/ which/,] [[creature dwelling] creature traverses] the [[creature dwelling] syn].
 
 # "a quick mammal which digs in the ground. it tracks prey patiently"
-[!creature dwelling][a] [?creature modifier] [?[creature dwelling] adj] [[creature dwelling] creature type] which [[creature dwelling] creature traverses] the [[creature dwelling] syn]. it [does creature activity].
+[!creature dwelling][a] [?creature modifier] [?[creature dwelling] adj] [[creature dwelling] creature type] which [[creature dwelling] creature traverses] the [[creature dwelling] syn][. it/,] [does creature activity].
 
 
 # ----- Helpers -----
@@ -128,11 +128,11 @@ waves
 ocean
 
 * sea creature traverses
-sails [through/over]
+sails [through/over/on]
 glides [through/over]
-swims through
+swims [through/in]
 powers [through/over]
-paddles [through/over]
+paddles [through/over/in]
 undulates through
 cuts through
 flaps through

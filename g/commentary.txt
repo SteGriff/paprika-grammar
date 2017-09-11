@@ -76,8 +76,8 @@ yep [?good reaction]
 * comment tail
 if you ask me
 in my opinion
-I reckon
-I say
+i reckon
+i say
 
 # ----- Newspapers -----
 

@@ -1,0 +1,55 @@
+* dance tweet
+[dance] of the [dancers]
+[dancing] [dancers]
+[dancer] [dance]
+
+* dancer
+beetle
+buffalo
+car
+chicken
+dragon
+elephant
+moose
+robot
+android
+tentacle
+squid
+
+* dancers
+beetles
+duck eggs
+cars
+juice machines
+dragons
+elks
+robots
+androids
+biopods
+tentacles
+
+* dance
+ballet
+breakdance
+linedance
+riverdance
+bodypopping
+squaredance
+waltz
+foxtrot
+samba
+tango
+barndance
+hoedown
+
+* dancing
+ballerina
+breakdancing
+linedancing
+riverdancing
+bodypopping
+squaredancing
+waltzing
+foxtrotting
+samba de
+barndancing

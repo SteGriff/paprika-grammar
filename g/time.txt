@@ -59,7 +59,7 @@ the other day
 just now
 
 *at recent time and place
-when I was [at recent place]
+when i was [at recent place]
 
 *at recent place
 in the shower

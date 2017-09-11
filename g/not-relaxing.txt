@@ -7,6 +7,9 @@
 [p relaxing thing] [p doesn't even work] [?it just makes me angry]
 [forget about] [?useless] [p relaxing thing]. [/they ][p is not relaxing at all]
 
+* themes before animals tweet
+[forget about] [cute animals], [here's a/try this] [soft theme]
+
 *forget about
 forget about
 forget
@@ -74,7 +77,7 @@ book
 annual
 movie
 photograph
-GIF
+gif
 dance
 song
 anthem
@@ -84,10 +87,11 @@ holiday
 * p memorabilia
 festivals
 books
-annuals
+picturebooks
+albums
 movies
 photographs
-GIFs
+gifs
 dance routines
 songs
 anthems

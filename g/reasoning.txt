@@ -1,5 +1,5 @@
-# Rest your face on the desk. It feels warm because I left it in the sun.
-# See this penguin egg? I made sure I sat on it
+# Rest your face on the desk. It feels warm because i left it in the sun.
+# See this penguin egg? i made sure i sat on it
 
 *advice
 [!do this][[do this]]; [reason to [do this]]
@@ -7,7 +7,7 @@
 #1 -> [put your something somewhere]; [reason to put your something somewhere]
 #2 -> Rest your head on the desk; 
 
-#See this [object to keep warm]? I made sure [reason it feels warm]
+#See this [object to keep warm]? i made sure [reason it feels warm]
 
 # ===== Top level of categories of things to do, for selecting a reason =====
 *do this
@@ -93,9 +93,9 @@ smooth
 *reason it feels warm
 the sun was shining on it
 it's specially heated
-I left it in the sun
-I left it next to the [heater]
-I sat on it
+i left it in the sun
+i left it next to the [heater]
+i sat on it
 
 *heater
 heater

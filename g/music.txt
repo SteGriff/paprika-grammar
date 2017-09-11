@@ -3,17 +3,17 @@
 # heavy soul
 
 *music tweet
-[I play music tweet]
+[i play music tweet]
 [made-up music tweet]
 
-* I play music tweet
-I play [!music style][[music style] instrument] in [a] [[music style] band].
+* i play music tweet
+i play [!music style][[music style] instrument] in [a] [[music style] band].
 do you listen to my [!music style][[music style] band]??
 
 * made-up music tweet
 [/please ]check out my new [made-up music] album
 my [made-up music] album is out [now/this week] [/btw]
-Listening to a great new [made-up music] album
+listening to a great new [made-up music] album
 
 *made-up music
 [music genre modifier] [music genre]
@@ -28,7 +28,7 @@ house
 jazz
 metal
 pop
-R&B
+r&b
 rap
 rock
 soul

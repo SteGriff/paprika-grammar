@@ -1,4 +1,20 @@
-*tweet
+* tweet
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[tweet pragma]
+[once again] [tweet pragma]
+[tweet pragma#1] [and/so] [tweet pragma#2]
+
+* tweet pragma
 [complement tweet]
 [feeling ill tweet]
 [item event phrase]
@@ -16,7 +32,7 @@
 [dungeon tweet]
 [gossip tweet]
 [proverb interrupted tweet]
-[I play music tweet]
+[i play music tweet]
 [made-up music tweet]
 [shout out tweet]
 [what the tweet]
@@ -25,19 +41,40 @@
 [food tweet]
 [recipe tweet]
 [not relaxing tweet]
+[themes before animals tweet]
 [pre-ramble tweet]
 [place stuff tweet]
 [if you need me tweet]
 [verb tweet]
+[verb tweet]
 [what if verb tweet]
+[mixed up verb tweet]
+[mixed up verb tweet]
 [make me x tweet]
+[go on tweet]
 [alien dialogue tweet]
 [important keep tweet]
 [small plant tweet]
+[creature tweet]
+[creature activity tweet]
+[smeagley tweet]
+[invention tweet]
+[landscape tweet]
+[cant x what isnt y tweet]
+[dance tweet]
+
+* once again
+once again,
+i must remind you,
+again,
+remember,
+look,
+once more,
+for the last time,
 
 * alien dialogue tweet
-"[alien dialogue]" -- [alien/space alien/space invader/space person]
-[alien dialogue] haha [jk/kidding/jokes]
+"[alien dialogue]" -- [an alien/a space alien/a space invader/a space person][//, probably]
+[alien dialogue] [haha/.../haaa...] [/still /again, ][jk/kidding/jokes/joking]
 
 *pre-ramble tweet
 the [problem/effects/condition] started [at recent time and place]
@@ -52,19 +89,51 @@ where is my [s frequently lost item]?!
 where are my [p frequently lost item]?!
 
 *confused question
-[!category] Is [[category]] even a real [category]?
-What is [a] [category]? Is [[category]] [a] [category]?
-is [[category]] [a] [real/] [category]?
+[!category] is [[category]] even a real [category]?
+what is [a] [category]? is [[category]] [a] [category]?
+[!category]is [[category]] [a] [real/] [category]?
 
 *what the tweet
-[what/why/how] [the/so/such] [dolf/pea/dog/ship/tweet/ham/egg]
+[what/why/how/when/who] [the/so/such/this/that/do] [dolf/pea/dog/ship/tweet/ham/egg/koi/plum/choop][//s]
 
 * important keep tweet
-it's important[/ always] to keep [thing to keep]
-always keep [thing to keep]
-make sure to keep [thing to keep]
+it's important[/ always] to keep[/...] [thing to keep]
+[always/make sure to] keep[/...] [thing to keep]
 
 * small plant tweet
-it's a [small plant description]
-can you not see it's a [small plant description]
-[i'm/you're/he's/she's] [/more ]like a [small plant description]
+[/it's ]a [small plant description]
+[can you not/can't you] [see/tell] it's a [small plant description]
+[something is] [/more /kinda ]like a [small plant description]
+
+* creature tweet
+[creature description]
+[creature description] that's [you/him/her/the guy]
+[something is] [/more /kinda ]like a [creature description]
+
+* something is
+i'm
+you're
+he's
+she's
+it's
+
+* invention tweet
+# invention is from verbs.txt
+[yes i did/it's true i did/i really did] [/originally ][invent/create/reinvent/envision/reimagine] the [invention]
+[/this is /here's /pictured: /featured: ][me/myself], [father/creator/inventor/originator] of the [invention]
+
+* smeagley tweet
+# i swims through the sea
+[!creature dwelling]i [[creature dwelling] creature traverses] the [creature dwelling]
+# i swims through the sea, i patrols its home carefully
+[!creature dwelling]i [[creature dwelling] creature traverses] the [creature dwelling], i [does creature activity]
+
+* creature activity tweet
+it [does creature activity]
+[!creature dwelling]it [[creature dwelling] creature traverses] the [creature dwelling]
+
+* landscape tweet
+[landscape description]
+[cower before] [landscape description]
+[this site][:/.../,] [landscape description]
+[/here is /here we see ][landscape description]
