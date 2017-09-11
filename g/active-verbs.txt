@@ -1,0 +1,39 @@
+* active verb tweet
+[active verb phrase]
+[active verb phrase#1] and [active verb phrase#2]
+
+* active verb phrase
+[active verb][[active verb] thing]
+
+* active verb
+enjoying
+making
+watching
+listening to
+
+* enjoying thing
+a nice cup of joe
+a cold coffee
+the game
+a warm cookie
+
+* making thing
+some noise
+a right mess
+things out of lego
+room for a new car
+space in my life
+
+* watching thing
+the game
+some tv
+the birds
+
+* listening to thing
+some music
+the ocean
+my own voice
+an audiobook
+a podcast
+talk radio
+radio [1/2/4]

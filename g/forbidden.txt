@@ -1,0 +1,67 @@
+* forbidden tweet
+no [forbidden thing] [in forbidden context]
+[forbidden thing] is [forbidden] [in forbidden context]
+
+* forbidden
+forbidden
+not allowed
+banned
+frowned upon
+strictly regulated
+[/not ]advised
+[/warmly ]encouraged
+
+* forbidden thing
+smoking
+smuggling
+running
+diving
+driving
+loadbearing
+heavy lifting
+hacking
+candle lighting
+sword eating
+moonlighting
+exploding
+eating
+drinking
+snorkelling
+climbing
+hogging
+brunching
+crime
+
+* in forbidden context
+[forward of/beyond/in front of/to rear of/behind] [divider]
+[vague place]
+[vague time]
+
+* divider
+the curtain
+this line
+this row
+here
+these little tassles
+painted lines
+crudely drawn lines
+crude signs
+this sign
+this tweet
+
+* vague place
+[over/up/down] [here/there]
+anywhere
+within city bounds
+in marked zone
+in [yellow/red] box
+between [yellow/red/blue] lines
+
+* vague time
+at any time
+during daylight savings
+by night
+between [7/8/9/10]am and [4/5/6/7/8/9]pm
+from [7/8/9/10] to [4/5/6/7/8/9]
+all [day/week/month/spring/summer/autumn/winter]
+while [here/active]
