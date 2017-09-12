@@ -63,6 +63,8 @@
 [cant x what isnt y tweet]
 [dance tweet]
 [doing verb tweet]
+[customer service tweet]
+[forbidden tweet]
 
 * once again
 once again,
