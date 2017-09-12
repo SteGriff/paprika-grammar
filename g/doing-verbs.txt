@@ -1,0 +1,87 @@
+* doing verb tweet
+[doing verb phrase]
+[doing verb phrase#1] and [doing verb phrase#2]
+i'm [/still /already ] [doing verb phrase]
+
+* doing verb phrase
+[doing verb] [[doing verb] thing]
+
+* doing verb
+doing
+getting
+enjoying
+making
+watching
+listening to
+riding
+chilling
+going
+
+* doing thing
+my taxes
+some [/neat ]sudoku
+some [ironing/chores]
+the dishes
+it right
+
+* getting thing
+stoked
+pumped
+ready
+
+* enjoying thing
+a nice cup of joe
+an ice cold beer
+a cold coffee
+the [/big ]game
+some sports
+a warm cookie
+good company
+myself
+life
+
+* making thing
+some noise
+a right mess
+things out of lego
+room for a new car
+space in my life
+
+* watching thing
+the [/big ]game
+some [/sweet /epic ]sports
+some tv
+the [birds/dog/cat]
+out
+the world go by
+the waves
+
+* listening to thing
+some music
+the ocean
+my own voice
+an audiobook
+this podcast
+talk radio
+radio [1/2/4]
+
+* riding thing
+it out
+high
+the wave
+in my car
+
+* chilling thing
+[/the heck ]out
+a [ham/chicken/turkey]
+some wine
+, relaxing, etc
+with the best
+with the [team/guys/fam]
+
+* going thing
+out
+online
+on twitter dot com
+on and on
+up in the world
