@@ -4,12 +4,12 @@
 we are [/reluctantly ][pursuing] the [matter]
 
 * while the matter develops
-while the [matter] [develops/emerges/becomes clear]
-while we [/reluctantly ][investigate/explore] this [matter]
+while [this/the/said] [matter] [develops/emerges/becomes clear]
+while we [/reluctantly ][investigate/explore/delineate] [this/the/said] [matter]
 
 * matter
-[/alleged /complex ]"[situation]" situation
-[/alleged /complex ]matter of the "[situation]"
+[/alleged /complex /emerging ]"[situation]" situation
+[/alleged /complex /emerging ]matter of the "[situation]"
 
 * pursuing
 pursuing
