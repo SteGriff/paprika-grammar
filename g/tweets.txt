@@ -68,6 +68,10 @@
 [kid name tweet]
 [organic tweet]
 [recovery program tweet]
+[gizmo tweet]
+[gizmo comment tweet]
+[delivery tweet]
+[partial delivery tweet]
 
 * once again
 once again,

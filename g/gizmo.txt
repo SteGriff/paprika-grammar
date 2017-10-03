@@ -1,0 +1,109 @@
+# Probability controller
+* gizmo tweet
+[gizmo tweet tier 1]
+[gizmo tweet tier 1]
+[gizmo tweet tier 2]
+
+# V Good examples of this grammar
+* gizmo tweet tier 1
+[ah yes][,/...] [a] [gizmo place] [gizmo][... that's/ is] what [one of those is called][/ back/ back home/ down/ over] in [gizmo place][?gizmo comment]
+[ah yes][,/...] [one of those is called] [a] [gizmo place] [gizmo][/ back/ back home/ down/ over] in [gizmo place][?gizmo comment]
+
+# Slightly less good examples
+* gizmo tweet tier 2
+the [gizmo place] [gizmo], well known for its [gizmo adj] [gizmo attribute],
+the [gizmo adj] [gizmo attribute] of the [gizmo place] [gizmo],
+[ASSIGNMENT:/TASK:/HOMEWORK:/please/your mission:/continue to] [compare/contrast] the [gizmo place#1] [gizmo#1] [and/with] the [gizmo place#2] [gizmo#2]
+
+# Another tweet type
+* gizmo comment tweet
+[hmm/mmm/ah/oh/aha/yes][gizmo comment]
+
+* ah yes
+[/ah /oh /hmm /mmm ]yes
+[/yes, /aha, ][indeed/quite/true]
+
+* one of those is called
+one of [those/these] is called
+[that/this][/ thing] is called
+it's called
+we call one of [those/these][/ things]
+we call [that/this][/ thing]
+we call it
+
+* gizmo place
+michigan
+aberdeen
+newport
+dudley
+bolton
+wigan
+missisouga
+chicago
+blackpool
+rockferry
+glasgow
+edinburgh
+new york
+new delhi
+berlin
+missouri
+nashville
+
+* gizmo
+[gizmo thingy][gizmo cad]
+[gizmo cadda][gizmo thingy]
+[gizmo thing][gizmo caddy]
+[gizmo caddy][gizmo thing]
+
+* gizmo thingy
+[b/d/fl/g/j/l/m/n/p/ph/s/t/th][a/e/i/o/u][n/r][g/k/d/t]y
+
+* gizmo thing
+[b/d/fl/g/j/l/m/n/p/ph/s/t/th][a/e/i/o/u][n/r][g/k/d/t]
+
+* gizmo cad
+[b/c/d/k/p][a/o][b/d/p]
+[m/t/p/ch][u/i][/r][ff/d/b/m/ck/tt]
+
+* gizmo cadda
+[b/c/d/k/p][a/o][b/d/p]a
+[m/t/p/ch][u/i][/r][ff/d/b/m/ck/tt]a
+
+* gizmo caddy
+[b/c/d/k/p][a/o][bb/dd/pp]y
+[m/t/p/ch][u/i][/r][ff/dd/bb/mm/ck/tt]y
+
+* gizmo comment
+[.../,/.] [such/very/charmingly/disarmingly/remarkably/notably/note the] [gizmo adj] [gizmo attribute]
+
+* gizmo adj
+sturdy
+attractive
+clean
+brutal
+messy
+confusing
+confused
+luxurious
+nasty
+poor
+long lasting
+fragile
+strong
+powerful
+lumpy
+solid
+mixed up
+
+* gizmo attribute
+construction
+design
+geometry
+flavour
+taste
+mouth feel
+texture
+ergonomics
+handling
+hand grips

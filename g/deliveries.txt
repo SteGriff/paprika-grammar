@@ -1,31 +1,90 @@
+# a single piece of popcorn, sitting on the doorstep
+# several enormous crates of moisturiser, unceremoniously launched through my window
+# some small rocks, crammed through the letterbox
 * delivery tweet
-a single piece of popcorn, sitting on the doorstep
-several enormous crates of moisturiser, unceremoniously launched through my window
-some small rocks, crammed through the letterbox
-[delivered item] [delivery mechanism]
+[delivered item][/,] [delivery mechanism][/.../??/???]
+
+* partial delivery tweet
+[delivered item]
+[delivery mechanism]
 
 * delivered item
-[many] [plural items]
-a [single item]
+[many] [crates] of [uncountable item]
+[a] [single] [piece] of [countable item]
+
+* single
+single
+individual
+lonely
+solitary
 
 * many
+several
+innumerable
+uncountable
 many
+so many
 some
 [/quite ]a few
-[huge/enormous] numbers of
-loads of
 
+* crates
+crates
+boxes
+pallets
+barrows
+parcels
+bags
+sacks
+drums
+barrels
+bottles
+
+* piece
+piece
+crate
+box
+pallet
+barrow
+parcel
+bag
+sack
+drum
+barrel
+bottle
+can
+tin
+container
+
+* uncountable item
+moisturiser
+leaves
+cement
+fail
+
+* countable item
+popcorn
+gravel
+corn
+wheat
+anime
 
 * delivery mechanism
-[sitting/lying] [unassumingly] [in sitting place]
-[sitting/lying] [in sitting place]
+[sitting] [unassumingly] [in sitting place]
+[sitting] [in sitting place]
 [unceremoniously] [launched] [through/in/into] [the/my/our] [delivery cache]
 [launched] [through/in/into] [the/my/our] [delivery cache]
+
+* sitting
+sitting
+lying
+laying
+chillaxing
+relaxing
 
 * in sitting place
 on the couch
 there
-with me
+[beside/next to] me
 on the [sofa/couch]
 in a large [/leather ]chair
 
