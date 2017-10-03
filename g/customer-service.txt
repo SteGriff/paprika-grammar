@@ -1,0 +1,77 @@
+* customer service tweet
+[/to our ][describe customers] [customers], please [customer action] [while the matter develops]
+[customers] [will/must] [customer action] [while the matter develops]
+we are [/reluctantly ][pursuing] the [matter]
+
+* while the matter develops
+while [this/the/said] [matter] [develops/emerges/becomes clear]
+while we [/reluctantly ][investigate/explore/delineate] [this/the/said] [matter]
+
+* matter
+[/alleged /complex /emerging ]"[situation]" situation
+[/alleged /complex /emerging ]matter of the "[situation]"
+
+* pursuing
+pursuing
+investigating
+looking into
+analysing
+mitigating
+
+* describe customers
+disgruntled
+disappointed
+esteemed
+valued
+beligerant
+numerous
+unhappy
+furious
+beleagured
+
+* customers
+customers
+guests
+patrons
+users
+citizens
+staff
+subjects
+
+* customer action
+[/continue to ][customer act]
+[/continue to ][customer act]
+
+* customer act
+wait
+queue
+hold[/ the line]
+refresh the page
+seek information
+flee
+run
+escape
+panic
+wave [appendages/arms/hands and arms][/ around]
+
+* situation
+explosion
+crash
+uncontrollable fire
+minor flooding
+emergency
+invasion
+killer bee
+escaped [shark/lion/bees/tiger/snakes]
+prison break
+[deadly/fatal] [defect/design flaw]
+nuclear incident
+outbreak
+pandemic
+armed conflict
+
+* develops
+develops
+continues to develop
+emerges
+is investigated

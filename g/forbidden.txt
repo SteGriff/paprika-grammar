@@ -1,6 +1,15 @@
 * forbidden tweet
+[forbidden tweet tier one]
+[forbidden tweet tier one]
+[forbidden tweet tier two]
+
+* forbidden tweet tier one
 no [forbidden thing] [in forbidden context]
 [forbidden thing] is [forbidden] [in forbidden context]
+
+* forbidden tweet tier two
+[/please ][respect/observe/obey/heed] the [rules/regulations/signs] [concerning/vis a vis/regarding/as pertain to] [forbidden thing] 
+[forbidden thing#1] and [forbidden thing#2] are [forbidden] [in forbidden context]
 
 * forbidden
 forbidden
@@ -8,8 +17,9 @@ not allowed
 banned
 frowned upon
 strictly regulated
-[/not ]advised
-[/warmly ]encouraged
+not advised
+only advised
+[/especially ]encouraged
 
 * forbidden thing
 smoking
@@ -41,13 +51,15 @@ crime
 the curtain
 this line
 this row
-here
+my location
 these little tassles
 painted lines
-crudely drawn lines
+the crudely drawn lines
 crude signs
 this sign
 this tweet
+the bunting
+the ceremonial rope
 
 * vague place
 [over/up/down] [here/there]

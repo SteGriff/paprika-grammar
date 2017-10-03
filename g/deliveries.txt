@@ -1,0 +1,77 @@
+* delivery tweet
+a single piece of popcorn, sitting on the doorstep
+several enormous crates of moisturiser, unceremoniously launched through my window
+some small rocks, crammed through the letterbox
+[delivered item] [delivery mechanism]
+
+* delivered item
+[many] [plural items]
+a [single item]
+
+* many
+many
+some
+[/quite ]a few
+[huge/enormous] numbers of
+loads of
+
+
+* delivery mechanism
+[sitting/lying] [unassumingly] [in sitting place]
+[sitting/lying] [in sitting place]
+[unceremoniously] [launched] [through/in/into] [the/my/our] [delivery cache]
+[launched] [through/in/into] [the/my/our] [delivery cache]
+
+* in sitting place
+on the couch
+there
+with me
+on the [sofa/couch]
+in a large [/leather ]chair
+
+* unassumingly
+unassumingly
+quietly
+shyly
+unsuspectingly
+suspiciously
+conspicuously
+patiently
+serenly
+modestly
+
+* unceremoniously
+unceremoniously
+suddenly
+carelessly
+thoughtlessly
+carefully
+thoughtfully
+
+* launched
+launched
+thrust
+slung
+fired
+blasted
+expelled
+crammed
+stuffed
+mashed
+forced
+slammed
+smashed
+plastered
+smushed
+mushed
+heaved
+rocketed
+pitched
+tossed
+flung
+
+* delivery cache
+[/dining room /kitchen /bathroom /bedroom ]window
+[letterbox/mailbox]
+[/front ]door
+chimney

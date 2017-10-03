@@ -62,6 +62,12 @@
 [landscape tweet]
 [cant x what isnt y tweet]
 [dance tweet]
+[doing verb tweet]
+[customer service tweet]
+[forbidden tweet]
+[kid name tweet]
+[organic tweet]
+[recovery program tweet]
 
 * once again
 once again,
@@ -137,3 +143,9 @@ it [does creature activity]
 [cower before] [landscape description]
 [this site][:/.../,] [landscape description]
 [/here is /here we see ][landscape description]
+
+* kid name tweet
+all kids names should include a [category#1] and a [category#2], like [name] [[category#1]] [[category#2]] [surname]
+[!category#1][!category#2][/please ][meet/let me introduce] my son, [male name] [[category#1]] [[category#2]] [surname]
+[!category#1][!category#2][/please ][meet/let me introduce] my daughter, [female name] [[category#1]] [[category#2]] [surname]
+...[/is ]a [/very ][great/cool/fun/neat] [category]... anyway [here's/meet/let me introduce] my child, [name] [[category]] [surname]
