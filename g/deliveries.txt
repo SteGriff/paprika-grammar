@@ -2,77 +2,35 @@
 # several enormous crates of moisturiser, unceremoniously launched through my window
 # some small rocks, crammed through the letterbox
 * delivery tweet
-[delivered item][/,] [delivery mechanism][/.../??/???]
+[delivered item][/,] [delivery mechanism]
+[2/3/4/5]AM: [many] [crates] of [containable item] are [mass delivery mechanism]
+[i have lost/i cannot] count how many [crates] of [containable item] [were/have been] [mass delivery mechanism]
+[at recent place]. [a] [single] [single thing] was [handed/passed/given] to me
+i [scream/yell/flail wildly/panic/jump and yelp] as [many] [crates] of [containable item] are [mass delivery mechanism]
 
 * partial delivery tweet
 [delivered item]
 [delivery mechanism]
 
 * delivered item
-[many] [crates] of [uncountable item]
-[a] [single] [piece] of [countable item]
+[many] [crates] of [containable item]
+[a] [single] [single thing]
 
-* single
-single
-individual
-lonely
-solitary
-
-* many
-several
-innumerable
-uncountable
-many
-so many
-some
-[/quite ]a few
-
-* crates
-crates
-boxes
-pallets
-barrows
-parcels
-bags
-sacks
-drums
-barrels
-bottles
-
-* piece
-piece
-crate
-box
-pallet
-barrow
-parcel
-bag
-sack
-drum
-barrel
-bottle
-can
-tin
-container
-
-* uncountable item
-moisturiser
-leaves
-cement
-fail
-
-* countable item
-popcorn
-gravel
-corn
-wheat
-anime
+* single thing
+[piece] of [piecemeal item]
+[individual item]
 
 * delivery mechanism
-[sitting] [unassumingly] [in sitting place]
-[sitting] [in sitting place]
+[single delivery]
+[mass delivery mechanism]
+
+* mass delivery mechanism
 [unceremoniously] [launched] [through/in/into] [the/my/our] [delivery cache]
 [launched] [through/in/into] [the/my/our] [delivery cache]
+
+* single delivery
+[/just ][sitting] [unassumingly] [in sitting place]
+[/just ][sitting] [in sitting place]
 
 * sitting
 sitting
@@ -82,11 +40,63 @@ chillaxing
 relaxing
 
 * in sitting place
-on the couch
 there
 [beside/next to] me
 on the [sofa/couch]
 in a large [/leather ]chair
+
+* delivery cache
+[/dining room /kitchen /bathroom /bedroom /car ]window
+[letterbox/mailbox]
+[door/front door/patio doors]
+[chimney/conservatory/porch/balcony]
+
+# -- ITEM DICTIONARY --
+
+# Box of ____
+* containable item
+moisturiser
+cream
+milk
+oil
+concrete
+leaves
+cement
+fail
+anime
+comics
+explosives
+minions
+whey protein
+[cooked/fried] chicken
+[vegetables/produce]
+rocks
+
+# Piece of ___
+* piecemeal item
+popcorn
+gravel
+corn
+wheat
+cake
+pie
+toast
+machinery
+concrete
+gold
+silver
+
+* individual item
+power supply
+oscilloscope
+[american/canadian/indian/australian/french/italian] flag
+lightbulb
+[trashcan/dustbin]
+treasure chest
+protein shake
+rubber duck
+
+# -- THESAURUS --
 
 * unassumingly
 unassumingly
@@ -129,8 +139,45 @@ pitched
 tossed
 flung
 
-* delivery cache
-[/dining room /kitchen /bathroom /bedroom ]window
-[letterbox/mailbox]
-[/front ]door
-chimney
+* single
+single
+individual
+lonely
+solitary
+
+* many
+several
+innumerable
+countless
+many
+so many
+some
+[/quite ]a few
+
+* crates
+crates
+boxes
+pallets
+barrows
+parcels
+bags
+sacks
+drums
+barrels
+bottles
+
+* piece
+piece
+crate
+box
+pallet
+barrow
+parcel
+bag
+sack
+drum
+barrel
+bottle
+can
+tin
+container
