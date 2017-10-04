@@ -71,7 +71,7 @@
 [gizmo tweet]
 [gizmo comment tweet]
 [delivery tweet]
-[partial delivery tweet]
+[sell to me tweet]
 
 * once again
 once again,

@@ -8,9 +8,10 @@
 [at recent place]. [a] [single] [single thing] was [handed/passed/given] to me
 i [scream/yell/flail wildly/panic/jump and yelp] as [many] [crates] of [containable item] are [mass delivery mechanism]
 
-* partial delivery tweet
-[delivered item]
-[delivery mechanism]
+* sell to me tweet
+[seeking/buying/sell me/please sell me] [delivered item]
+[what's/what is/give me] [your/the] [best/worst/nicest/friendliest/cheapest] [price/rates] on [delivered item]
+how much for [delivered item]
 
 * delivered item
 [many] [crates] of [containable item]
@@ -71,6 +72,8 @@ whey protein
 [cooked/fried] chicken
 [vegetables/produce]
 rocks
+bones
+[piecemeal item]
 
 # Piece of ___
 * piecemeal item
@@ -85,6 +88,8 @@ machinery
 concrete
 gold
 silver
+software
+art
 
 * individual item
 power supply
@@ -95,6 +100,7 @@ lightbulb
 treasure chest
 protein shake
 rubber duck
+ham radio
 
 # -- THESAURUS --
 
@@ -123,7 +129,6 @@ thrust
 slung
 fired
 blasted
-expelled
 crammed
 stuffed
 mashed
