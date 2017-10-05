@@ -1,0 +1,47 @@
+# Something like pudge controls the weather
+* controls tweet
+[s controller] [s controls] [controllable]
+[p controller] [p controls] [controllable]
+
+* s controller
+pudge
+the [orb/amulet]
+a robot[/ hand]
+The Master Hand
+the cloud
+the [NBA/NFL/Premier League/FIA]
+[piers morgan/simon cowell/george w bush/richard nixon/
+[the BBC/television/NBC]
+[sophisticated/simple/broken] [software/algorithms/machine learning]
+random chance
+[the FBI/the NSA/the CIA/MI5/GCHQ]
+[her majesty the queen/justin trudeau]
+
+* p controller
+the clouds
+tiny elves
+[french/german/chinese/american] webservers
+
+* s controls
+controls
+manipulates
+is in control of
+is controlling
+is deciding
+decides
+dictates
+
+* p controls
+control
+manupulate
+are in control of
+are controlling
+are deciding
+decide
+dictate
+
+* controllable
+the weather
+my tweets
+my actions
+gravity
