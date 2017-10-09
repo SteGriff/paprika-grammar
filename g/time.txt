@@ -59,12 +59,20 @@ the other day
 just now
 
 *at recent time and place
-when i was [at recent place]
+[/when i was ][at recent place]
 
 *at recent place
-in the shower
-in the bath
+in the [shower/bath]
 in the car
-driving to work
+[on my bike/while cycling]
+[scooting/driving] to work
 in the garden
 on holiday
+sleeping
+jogging
+at the doctor
+in hospital
+at work
+at my desk
+catching up on my shows
+reorganising my [socks/pants/underwear]

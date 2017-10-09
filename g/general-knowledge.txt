@@ -12,7 +12,7 @@ body part
 france
 germany
 spain
-spian
+spane
 italy
 china
 japan
