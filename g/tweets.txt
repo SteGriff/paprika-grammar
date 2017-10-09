@@ -11,6 +11,7 @@
 [tweet pragma]
 [tweet pragma]
 [tweet pragma]
+[tweet pragma]
 [once again] [tweet pragma]
 [tweet pragma#1] [and/so] [tweet pragma#2]
 
@@ -72,6 +73,10 @@
 [gizmo comment tweet]
 [delivery tweet]
 [sell to me tweet]
+[controls tweet]
+[dictates tweet]
+[here comes controller tweet]
+[brewing tweet]
 
 * once again
 once again,

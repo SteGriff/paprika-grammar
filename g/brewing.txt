@@ -1,5 +1,5 @@
 * brewing tweet
-to make [brew adj] [brew][,/...] we [mix] [in mix place][,/...] [contemplation][./,] [brew praise][./!] [i/we] [love/like/want] [brew object]
+to make [brew adj] [brew][,/...] we [mix] [in mix place][,/...] [contemplation][./,] [brew praise][./!] [emphatic three]
 
 * brew adj
 cold
@@ -14,6 +14,8 @@ sour
 ice
 thin
 thick
+pink
+blue
 
 * brew
 brew
@@ -33,7 +35,6 @@ at the [park/shop/beach]
 [very well/very hard/all the while/all the time/through the night/every day]
 with [our arms/a stick/our legs/a spade/a smile]
 
-
 * contemplation
 hmmm
 oooh
@@ -47,6 +48,8 @@ wooo
 yesss
 cool
 ace
+oh
+aha
 
 * brew praise
 delicious
@@ -63,3 +66,8 @@ beverage
 candles
 homebrew
 coffee
+liquids
+
+* emphatic three
+[i/we] [love/like/want] [brew object]
+[now let's/let's all/let me/come and] [drink/quaff/gulp] [some/it]

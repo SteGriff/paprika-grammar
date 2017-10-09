@@ -1,47 +1,72 @@
-# Something like pudge controls the weather
+# Something like 'pudge controls the weather'
 * controls tweet
-[s controller] [s controls] [controllable]
-[p controller] [p controls] [controllable]
+[tier 1 controls tweet]
+[tier 1 controls tweet]
+[tier 2 controls tweet]
 
-* s controller
+* tier 1 controls tweet
+[controller] [controls] [controllable] [?conspiracy trailoff]
+
+* tier 2 controls tweet
+[i think/it seems/did you know] [controller] [controls] [controllable] [/even now/to this day/this very moment/and always will]
+[controllable] and [dictatable]
+
+* dictates tweet
+[controller] [dictates] [dictatable] [?conspiracy trailoff]
+[i think/it seems/did you know] [controller] [dictates] [dictatable] [/even now/to this day/this very moment/and always will]
+
+* here comes controller tweet
+[/hey /oop /uh oh /oh no /hey guys ][here comes/watch out for/look out for] [controller]
+
+* conspiracy trailoff
+i'm tellin you[/ man/ maaan/ guys]
+[you gotta/you've gotta/you have to/please] believe me
+[there isn't/there's not] much time[/ left]
+[open your eyes/wake up][/ sheeple]
+
+* controller
 pudge
+[random chance/major league soccer (tm)]
 the [orb/amulet]
-a robot[/ hand]
-The Master Hand
-the cloud
-the [NBA/NFL/Premier League/FIA]
-[piers morgan/simon cowell/george w bush/richard nixon/
-[the BBC/television/NBC]
-[sophisticated/simple/broken] [software/algorithms/machine learning]
-random chance
-[the FBI/the NSA/the CIA/MI5/GCHQ]
-[her majesty the queen/justin trudeau]
+a robot[/ hand/ head]
+[google/the cloud]
+the [nba/nfl/premier league]
+[piers morgan/simon cowell/george w bush/richard nixon]
+[the bbc/nbc]
+some [sophisticated/simple/broken] [software/algorithm/machine learning]
+[the fbi/the nsa/the cia/mi5]
+[her majesty the queen/the queen/justin trudeau]
+[a] [french/german/chinese/american] webserver
+[a] [scotsman/irishman/martian]
+linkedin
+[elon musk/brendan eich/mark zuckerberg]
+[node js/visual basic]
 
-* p controller
-the clouds
-tiny elves
-[french/german/chinese/american] webservers
-
-* s controls
+* controls
 controls
 manipulates
 is in control of
-is controlling
-is deciding
+
+* dictates
 decides
 dictates
-
-* p controls
-control
-manupulate
-are in control of
-are controlling
-are deciding
-decide
-dictate
+chooses
 
 * controllable
 the weather
 my tweets
 my actions
 gravity
+the stock market
+the oscars
+the energy market
+the internet
+brexit
+everything
+
+* dictatable
+[my/our/your] tweets
+[my/our/your] actions
+[my/our/your] rights
+[US law/european law/the president/the prime minister]
+my answerphone message
