@@ -1,0 +1,59 @@
+* things in the place tweet
+[things] [in the place]
+[inadvertent] [things]
+[inadvertent] [things] [in the place]
+[things#1] [in the place#1], [inadvertent] [things#2]
+
+* things
+sunshine
+reading
+cycling
+opinions
+tweets
+toast
+laundry
+tamagotchis
+discussions
+sharks
+camping
+dancing
+happiness
+showboating
+boasting
+gas release
+overtaking
+decorations
+festivities
+celebrations
+consequences
+litigation
+
+* in the place
+on a [rainy/cloudy] day
+at the [park/pool]
+[with/on] [a] [bear/dinosaur/panda/dog/zebra]
+while robotic
+on the [train/bus]
+under [a] [bridge/overpass/highway]
+in the [city/country]
+in the [wilderness/jungle]
+in [a] [tree/windmill]
+in [denmark/japan/lichtenstein/korea/russia/hollywood]
+at the [factory/power plant/mill]
+in [an][/ abandoned/ spooky/ ancient] [warehouse/factory/power plant/mill/castle/tower]
+#for [much/way] too long
+#until it's [banned/illegal]
+
+* inadvertent
+inadvertent
+accidental
+oh no, not
+sudden
+conspicuous
+unavoidable
+alarming
+regrettable
+unfortunate
+[tiring/exhausting]
+irreversible
+neverending

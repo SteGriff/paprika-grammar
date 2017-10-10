@@ -77,6 +77,8 @@
 [dictates tweet]
 [here comes controller tweet]
 [brewing tweet]
+[confusing me tweet]
+[things in the place tweet]
 
 * once again
 once again,
