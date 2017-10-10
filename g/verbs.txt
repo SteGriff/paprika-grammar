@@ -227,7 +227,6 @@ clearly now
 the world
 no other way
 the way
-# a [thing doing thing] # Not implemented yet in item-events.txt
 
 # ----- come -----
 

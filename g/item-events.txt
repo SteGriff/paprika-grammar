@@ -1,30 +1,60 @@
 # ----- Implementations -----
 
-*item event phrase
+* item event phrase
 [my /][thing] [did [thing] action] [?recently]
-[my /][thing] [did [thing] action] [?recently], [item event exclamation]
+[my /][thing] [did [thing] action] [?recently][,/...] [item event exclamation]
+[welpy item event phrase]
 
-* thing doing thing
-[thing] [doing [thing] action]
+* welpy item event phrase
+[welp], [my /][thing] [did [thing] action] [?recently]
+[welp], [my /][thing] [did [thing] action] [?recently][,/...] [item event exclamation]
 
 # ----- Accessories -------
 
-*item event exclamation
+* welp
+welp
+well
+well friends
+well everyone
+and so
+
+* item event exclamation
 help?
 whyyyy
 why?
 why though.
 wat.
-what does this mean?
-what will happen?
+what does this mean[/ for me]?
+what will happen[/ now]?
 what is my life?
-why me?
-so...?
+why [/always ]me?
+so...[/ what now]?
 interesting...
+i'm [fuming/angry]
+[/say ]whaaaat
+whaaat is happenniiiiiing
+sunrise, sunset
+par for the course
+naturally
+[shoulda/coulda] seen [it/this] coming
+coincidence??
+myteries never cease
+every day [a/another] [surprise/nightmare]
+
+
+* recently
+this morning
+yesterday [morning/afternoon/night]
+last night
+last week
+the other day
+just [now/a minute ago]
 
 # ----- Clever grammar -----
 
-*thing
+* thing
+phone
+boss
 alarm clock
 bed
 dog
@@ -34,118 +64,120 @@ internet
 tamagotchi
 computer
 trousers
-boss
-phone
 mug
 unicorn
+tongue
+company
+band
+friends
 
-*did phone action
+* did phone action
 died
 rang and then stopped
 fell off the table
 fell on my face
 
-*did boss action
+* did boss action
 gave me a pay rise
+cut my pay
+fired me
 shouted at me
 told me off
-sent me to get lunch
-watched me
+sent me to fetch lunch
+wouldnt leave me alone
 
-*did alarm clock action
+* did alarm clock action
 just went off
-didn't work
-fell off the table
+[didn't work/broke]
+fell [down/off the table]
 snoozed for too long
-lost power
 
-*did bed action
+* did bed action
 collapsed
 fell apart
-got way too cold
-got way too hot
+got super [hot/cold/wet]
 
-*did dog action
-barked 
-barked really loud
-barked in my ear
-barked at a cat
+* did dog action
+barked [/really loud/in my ear/at cats/at squirrels]
 spoke to me
 got loose
 ran away
-ate a whole ham
+ate [a] [whole/entire] [ham/man]
 died
-gave birth
-escaped
-ran away
+had babies
+[escaped/ran away]
 got run over
-learnt to shake hands
-learnt to say 
-gave me high five
+learnt [spanish/python/the cuban shuffle][/ before me]
+high fived me
 
-*did cat action
-said meow
+* did cat action
 spoke to me
-killed a mouse
-killed a bird
-brought me a bird
-brought me a mouse
-grew wings
+[brought me/killed] [a mouse/a bird/some kind of small dragon/like, a whole racoon]
 fell in the fish tank
-fell off the worktop
-got stuck up a tree
+fell off the counter
+got stuck up [the tallest/the worlds tallest/an enourmous] tree
 
-*did hot water action
+* did hot water action
 went off
 stopped
 stopped working
 burned me
 
-*did internet action
-went off
-got cut off
-failed
-broke
-started going really slow
-slowed right down
+* did internet action
+went [crazy/loco/nuts/wild] and [did crazy internet action][// for no reason/ and i don't know how/ and i can't tell how/ and i can't undo it]
 
-*did tamagotchi action
-died
-ate [number] rice balls
-fell on the floor
-broke
-fell in my drink
+* did crazy internet action
+[bought/ordered][/ me] a load of [stuff/pets/anime/catsup/servants][/ on the darkweb]
+ordered[/ like,] a whole [mariachi band/death metal band/barrel of pickles/wedding band/load of anime/string quartet][/ on the darkweb]
+signed me up for [larping/hot yoga/the trump newsletter/tory membership]
+[sold me out/turned me in][/ to the feds/ to the police]
 
-*did computer action
-died
-finished installing updates
-updated
+* did tamagotchi action
+[died/exploded/made a mess] in my [pocket/jacket]
+ate [/about ][105/a gajillion/a billion/9005/17] rice balls
+fell [on the ground/in my soda]
+
+* did computer action
+finally [died/gave up/finished installing updates/updated/got stolen]
 turned itself off
-crashed
-developed sentience
-gained awareness
-got stolen
+[developed/gained] [sentience/awareness/a conscience/a sense of shame]
 
-*did trousers action
-split
-tore
-fell down
-fell off
-disappeared
-got stolen
-turned up
+* did trousers action
+[split/tore]
+fell [down/off]
+literally disappeared
+finally [turned up/showed themselves/returned home]
 
-*did mug action
-just sat there all day
+* did mug action
 cracked
-split
-fell off the desk
+leaked [coldbrew/coffee]
+just split
+[hurled/threw] itself [off the desk/out of my hand/out of the cupboard/off the counter][/ and smashed/ and exploded]
 
-*did unicorn action
-jumped over a rainbow
-came to town
-cried all over me
-cried all day
-spewed a rainbow
-made a rainbow
-gave me gold
+* did unicorn action
+[spewed/ate/jumped over/made] a rainbow
+[blackmailed me]
+said [mean/embarrassing/unrepeatable] things to [all my friends/my whole band/my family/my colleagues]
+
+* did tongue action
+[/got ]stuck to [everything/a lamp post]
+got me in trouble
+fell out
+felt all [hairy/huge/buzzy]
+
+* did company action
+[/finally ]went bankrupt
+[/finally ]got bought out
+[/finally ]collapsed
+
+* did band action
+[did friends actions]
+kicked me out[/ of the music basement/ of the lyrics loft/ of the funky bunker]
+[fired/disowned/dissed/pantsed] me[/ live on stage]
+wrote a [song/sick riff/sweet lick] without me
+[said/told me] i can't [play synth/have bongo solos/do a key change] [any more/ever again]
+
+* did friends action
+[/all ]went [skating/bowling/to the cinema] without me
+[/all ][disowned me/took my stuff/locked me out]
+[/all ]moved to [iowa/portland/oregon/seattle/atlanta/kentucky]
