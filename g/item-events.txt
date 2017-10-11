@@ -2,12 +2,14 @@
 
 * item event phrase
 [my /][thing] [did [thing] action] [?recently]
-[my /][thing] [did [thing] action] [?recently][,/...] [item event exclamation]
+[my /][thing] [did [thing] action][,/...] [item event exclamation]
+[my /][thing] [did [thing] action] [recently][,/...] [item event exclamation]
 [welpy item event phrase]
 
 * welpy item event phrase
 [welp], [my /][thing] [did [thing] action] [?recently]
-[welp], [my /][thing] [did [thing] action] [?recently][,/...] [item event exclamation]
+[welp], [my /][thing] [did [thing] action][,/...] [item event exclamation]
+[welp], [my /][thing] [did [thing] action] [recently][,/...] [item event exclamation]
 
 # ----- Accessories -------
 
@@ -17,6 +19,7 @@ well
 well friends
 well everyone
 and so
+so
 
 * item event exclamation
 help?
@@ -40,7 +43,8 @@ naturally
 coincidence??
 myteries never cease
 every day [a/another] [surprise/nightmare]
-
+hbu
+rip me
 
 * recently
 this morning
@@ -139,25 +143,33 @@ fell [on the ground/in my soda]
 
 * did computer action
 finally [died/gave up/finished installing updates/updated/got stolen]
-turned itself off
 [developed/gained] [sentience/awareness/a conscience/a sense of shame]
 
 * did trousers action
-[split/tore]
-fell [down/off]
+fell [down/off] [at a bad time]
 literally disappeared
 finally [turned up/showed themselves/returned home]
+[ripped/tore] themselves to shreds [in a furious protest]
+
+* in a furious protest
+in a [furious/indignant] [/show of /display of][fury/passion/protest]
+in a bid to escape my [service/captivity/clutches]
+
+* at a bad time
+in a [/board /pta ]meeting
+at work
+picking the kids up
+at the [theatre/concert]
+when i met the [queen/president]
 
 * did mug action
-cracked
-leaked [coldbrew/coffee]
-just split
+[/just ][leaked/split and poured] [coldbrew/coffee] all over my [desk/shirt/pants/parole officer/therapist]
 [hurled/threw] itself [off the desk/out of my hand/out of the cupboard/off the counter][/ and smashed/ and exploded]
 
 * did unicorn action
 [spewed/ate/jumped over/made] a rainbow
 [blackmailed/threatened] me
-said [mean/embarrassing/unrepeatable] things to [all my friends/my whole band/my family/my colleagues]
+said [mean/embarrassing/unrepeatable] things to [all my friends/my whole band/my family/my therapist]
 
 * did tongue action
 [/got ]stuck to [everything/a lamp post]
@@ -171,7 +183,7 @@ felt all [hairy/huge/buzzy]
 [/finally ]collapsed
 
 * did band action
-[did friends actions]
+[did friends action]
 kicked me out[/ of the music basement/ of the lyrics loft/ of the funky bunker]
 [fired/disowned/dissed/pantsed] me[/ live on stage]
 wrote a [song/sick riff/sweet lick] without me

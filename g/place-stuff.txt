@@ -18,6 +18,9 @@ college
 business
 circus
 ocean
+airport
+pirate ship
+jungle
 
 # ----- Space -----
 
@@ -218,3 +221,79 @@ dangerous
 beautiful
 warm
 cold
+
+# ----- airport -----
+
+* in airport
+in the airport
+at the airport
+
+* airport stuff
+planes
+travelators
+check in desks
+pilots
+foreigners
+tourists
+air hostess
+flights
+runway
+jets
+
+* airport adjective
+fast
+shiny
+airborne
+flying
+hot
+futuristic
+suave
+cool
+professional
+well trained
+
+# ----- pirate ship -----
+
+* in pirate ship
+on [a/my] pirate ship
+
+* pirate ship stuff
+flags
+sails
+hull
+maties
+parrots
+cannons
+swordplay
+fighting
+crewmates
+
+* pirate ship adjective
+rustic
+rebellious
+outlaw
+violent
+brooding
+scary
+offensive
+
+# ----- jungle -----
+
+* in jungle
+in the jungle
+
+* jungle stuff
+vine[/s]
+[tigers/lions/snakes]
+tree[/s]
+mangrove[/s]
+
+* jungle adjective
+humid
+sweaty
+dangerous
+green
+dangling
+lurking
+noisy
+thick
