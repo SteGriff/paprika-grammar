@@ -1,0 +1,16 @@
+* john stout tweet
+[john stout tweet pragma] #StoutTweet
+
+* john stout tweet pragma
+
+
+# ah i see you have an uninstantiated variable ... an amateur mistake
+# visual basic is a perfectly cromulent programming languages
+# c is for masochists. are you a masochist?
+# you program like you've never seen a class before
+# you mean to tell me you've never come across _________
+# i hope none of you ever have to write assembly code again
+# tom is wrong again, as usual
+# i think you will find my view is the correct one
+# now i love extensional programming as much as the next man...
+# please explain exactly how windows vista lost your homework

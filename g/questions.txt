@@ -1,0 +1,82 @@
+#you may be wondering, why can't it breathe?
+#how much does it like pudding?
+
+# ---- Tweets and supporting material ----
+# (Dictionary is at end of file)
+
+* you may be wondering tweet
+[you may be wondering][,/...][/for example, /like, ][/uhm, /uhhh, / ahh, ]"[odd question]?"
+
+* odd question tweet
+[odd question]
+
+* i will answer question tweet
+"[odd question]?" i hear you ask, and I will answer that very soon
+
+* you may be wondering
+[you/they] [may/might] be [wondering/thinking/pondering]
+[you/they] [may/might] [wonder/think/ponder]
+
+* odd question
+[question type] [[question type] q]
+
+# ---- Master category switches ----
+
+* question type
+could
+can
+what
+how
+why
+
+# ---- Question types ----
+
+* could q
+[it/this/this guy] be any worse
+
+* can q
+it [think/blend]
+[it/they] [speak human/communicate with humans/feel pain/go away now/still see us/see through walls/still hear us]
+
+* what q
+does it [eat/weigh/do all day]
+does it [think/believe] about [belief subject]
+does this [mean/
+is it [doing/]
+
+* belief subject
+[taxes/marxism/democracy/aliens/ghosts/walt disney]
+the [origin/provenance] of [the lion king/will ferrel/microwave pizza]
+
+* how q
+did this happen
+
+* why q
+can't [it/you/they] sit [down/still]
+is [singular lingerer] still here [in place]
+are [plural lingerer] still here [in place]
+is [singular lingerer] still [doing annoying thing]
+are [plural lingerer] still [doing annoying thing]
+
+* singular lingerer
+will ferrel
+all this spaghetti
+
+* plural lingerer
+pentatonix
+one direction
+these carolers
+all your friends
+our colleagues
+
+* in place
+on the [/dance]floor
+on the [counter/worktop/piano]
+at my house
+in the [kitchen/bedroom]
+in our [den/secret base/treehouse]
+at my desk
+[/]
+
+* doing annoying thing
+[bothering/talking to] my [boss/cat/fish/dog/mother]
