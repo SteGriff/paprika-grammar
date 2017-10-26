@@ -88,6 +88,7 @@
 [anti corporate tweet]
 [who ordered tweet]
 [opposing view tweet]
+[dangerous occupation tweet]
 [new tweets]
 
 * new tweets
@@ -104,6 +105,7 @@
 [anti corporate tweet]
 [who ordered tweet]
 [opposing view tweet]
+[dangerous occupation tweet]
 
 * combinable tweet pragma
 [complement tweet]
@@ -166,6 +168,7 @@
 [things in the place tweet]
 [anti corporate tweet]
 [who ordered tweet]
+[dangerous occupation tweet]
 
 * once again
 once again,

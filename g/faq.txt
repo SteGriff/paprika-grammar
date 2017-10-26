@@ -10,10 +10,13 @@ coat
 tie
 ticket
 pen drive
-laptop
+taser
+monocle
+[invention]
 
 *p frequently lost item
 keys
 shoes
 tickets
 gloves
+glasses

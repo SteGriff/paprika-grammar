@@ -1,0 +1,75 @@
+#it's difficult to get insurance in my job, which is being pulled from burning wrecakge by trainee firefighters
+# target practice for federal agents
+# crash test dummy
+
+* dangerous occupation tweet
+it's [?rather] [difficult] to get [insurance] for my [/current ][job], which is [dangerous occupation]
+it's [?rather] [difficult] to get [insurance] for my [/current ][job], where i [do dangerous occupation]
+[!demographic][/oh, ][/me? /what do i do? /my work? /what's my work? ][/well ][/like many [demographic] /like most [demographic] ]i [do dangerous occupation]
+another day [at the office/of the grind/of the rat race/in the rat race][,/...] [dangerous occupation]
+
+* demographic
+men
+americans
+russians
+robots
+retired civil servants
+retired pastry chefs
+former criminals
+convicted robots
+twitter bots
+
+* difficult
+difficult
+tricky
+impossible
+
+* insurance
+insurance
+coverage
+insured
+
+* job
+job
+occupation
+
+* dangerous occupation
+[to be/being] [/repeatedly ][pulled/carried/rescued] from burning [buildings/wreckage/forests/sawmills] by trainee [firefighters/rescuers/rescue rangers/rangers/park rangers]
+as target practice for [federal agents/US government/armed police/wiley sherrifs/trainee police/bounty hunters/the RMT union/journalists/union members]
+as [tracking/search and destruction/pursuit] practice for [police/federal/law enforcement] [dogs/hyenas/leopards/cheetahs/sharks]
+feeding [the/our] [municipal/neighbourhood/local] [predator]
+herding [predators] in my [prey costume]
+testing the [potency/effectiveness/abilities/spy resistance] of supervillain [weapons/acid vats/traps/machines]
+throwing surprise parties for [nervous/jumpy/traumatised] [secret/special] agents
+
+* do dangerous occupation
+am [/repeatedly ][pulled/carried/rescued] from burning [buildings/wreckage/forests/sawmills] by trainee [firefighters/rescuers/rescue rangers/rangers/park rangers]
+am [/literally /actual /literal ]target practice for [federal agents/US government/armed police/wiley sherrifs/trainee police/bounty hunters/the RMT union/journalists/union members]
+am [/literally /actually ][tracking practice for/search and destruction practice for/pursuit practice for/chased by/chased relentlessly by] [police/federal/law enforcement] [dogs/hyenas/leopards/cheetahs/sharks]
+[/literally /actually ]feed [the/our] [municipal/neighbourhood/local] [predator]
+herd [predators] in [my/a] [prey costume]
+test the [potency/effectiveness/abilities/spy resistance] of supervillain [weapons/acid vats/traps/machines]
+throw surprise parties for [nervous/jumpy/traumatised] [secret/special] agents
+
+* predator
+shark
+bear
+alligator
+wolf
+
+* predators
+hyenas
+tigers
+wolves
+sharks
+
+* prey
+chicken
+shrimp
+penguin
+gecko
+sheep
+flamingo
+
+* prey costume
+[prey] [costume/outfit/disguise]

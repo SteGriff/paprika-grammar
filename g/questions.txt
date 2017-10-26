@@ -41,7 +41,17 @@ you [get/buy/find] me [a] [/nice /good ][latte/green tea/za slice/dog/yam/clam/l
 
 # I excluded some years which were deemed "unfunny"
 * fairly recent year
-20[01/02/03/04/05/06/09/12/16/17/18]
+2001
+2002
+2003
+2004
+2005
+2006
+2009
+2012
+2016
+2017
+2018
 
 * find out later
 find out later[/ or don't]
@@ -91,7 +101,7 @@ can we fix the [hot tub/economy/environment/oscars/big hole we made/government/p
 did we not notice [thing to notice] [before/earlier]
 exactly do you [plan/expect/hope] to get to [the moon/mars/space station delta/moon base 4/madagascar/area 51] [with hindrance]
 
-* hindrance
+* with hindrance
 with that [attitude/face on]
 with that [lame/poor] excuse for [a] [go-kart/space ship/rocket launcher/propulsion system]
 without a [proper/quality] [wig/moustache]
