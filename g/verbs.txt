@@ -95,7 +95,7 @@ doubts
 karate
 agile
 [school subject]
-amazing stuff
+[amazing/great/cool] [stuff/things]
 exercises
 a lot of [weekending]
 a lot of [doing art]
@@ -147,18 +147,17 @@ some downtime
 # ----- make -----
 
 * thing to make
-things
-things better
+things[/ better]
 it better
-up
-it up
-a mess
-a lot of noise
+[/it ]up
+a [/big ]mess
+a [/whole ][lot/load] of noise
 some noise
 yourself [thing to make yourself]
-your way [forward/up]
+your way [forward/up/to the front]
 like [an] [animal]
-[a] better [invention]
+[a better/the ultimate] [invention]
+[neat/cool] stuff together
 
 * thing to make yourself
 useful
@@ -191,29 +190,38 @@ ahead
 to town
 to [school subject]
 about your business
+[first/last]
 
 # ----- know -----
 
 * thing to know
-about the matrix
-the truth
-your friends
-your food groups
-your alphabet
-your elements
-no limits
-no fear
+about the [matrix/REDACTED/secrets]
+the [truth/top 10/way/way to go]
+your [friends/enemies/adversaries]
+your [food groups/common birds/rapper name]
+your [alphabet/elements]
+no [limits/fear]
 yourself
 your own mind
+this
+that I [don't care/have left/am not here anymore/did not read it/forgot]
+that I'll be [back/there/here the whole time]
+not to worry
+where [you live/you left the car/it all went wrong]
 
 # ----- take -----
 
 * thing to take
-the biscuit
+[the biscuit/5]
 my breath away
-it out on me
-another shot
+it [away/out on me/carefully]
+another [shot at it/two or three/try]
 a shot
+me on
+[rarely/cautiously]
+your [bags/kids/whole family]
+[weapons/precautions]
+[a/some] time out
 
 # ----- see -----
 
@@ -249,7 +257,8 @@ for a long time
 it's ok
 deeply
 about it
-
+twice
+for me
 
 # ----- look -----
 
@@ -263,6 +272,10 @@ friendly
 sharp
 before you leap
 twice
+for me
+sharp
+your best
+cool doing it
 
 # ----- want -----
 
@@ -272,19 +285,20 @@ a promotion
 it badly
 it more
 for nothing
-
+to [stay/leave]
+to ask [odd question]
 
 # ----- give -----
 
 * thing to give
 it 100%
 it your best shot
-me your keys
+me [your keys/an answer]
 away your house
 over
 continuously
 constantly
-it away
+it [away/here]
 it all away
 everything away
 up
@@ -300,6 +314,9 @@ a screwdriver
 your head
 some logic
 a spork
+[toothpaste/soap/bleach]
+both hands
+common sense
 
 # ----- find -----
 
@@ -309,6 +326,8 @@ yourself
 the truth
 out the answer
 more questions
+my phone
+a way out
 
 # ----- tell -----
 
@@ -319,6 +338,8 @@ me what you think
 me the truth
 everyone
 someone
+[it/us] again
+that good [story/joke] you do
 
 # ----- ask -----
 
@@ -329,6 +350,7 @@ again
 around
 your friends
 yourself
+them [odd question]
 
 # ----- work -----
 

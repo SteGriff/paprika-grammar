@@ -1,7 +1,7 @@
 *talk about tv
 i watch [tv series] just for [[tv series] character][ tbh/]
 my [family member] [is/IS/WAS/REALLY WAS] in [tv series]
-[!tv series][!good]for [[good] /][storys/stories] about [[tv series] character][/ in [tv series]] please [/just ]watch [it/the show/[tv series]]
+[!tv series][!good]for [[good] /][storys/stories] about [[tv series] character][/ in [tv series]] please [/just ]watch [it yourself/at home/the show/[tv series]]
 [do they still make] [tv series][/?]
 [talk about tv character]
 
@@ -11,10 +11,8 @@ you [know/remember]... [!tv series][[tv series] character] from [tv series]...[/
 my [fave/best] [character/actor] in [tv series] is [[tv series] character]
 
 *do they still make
-do they still make[/ new eps of]
-they still make[/ new eps of]
-they still making[/ new eps of]
-they still [filming/shooting][/ new eps of]
+[/do ]they still make[/ new eps of]
+[/are ]they still [making/filming/shooting][/ new eps of]
 they're [making/filming/shooting][/ new eps of]
 
 *tv series
@@ -125,7 +123,7 @@ the blue thing
 the gumball guy
 the vending machine
 
-* stevey universe
+* stevey universe character
 stevey
 the mum
 the sisters

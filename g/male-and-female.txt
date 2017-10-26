@@ -33,7 +33,7 @@ him
 her
 
 *fem accu
-[f accusative]
+[fem accusative]
 
 ##### Reflexive #####
 
@@ -47,7 +47,7 @@ him
 her
 
 *fem refl
-[f reflexive]
+[fem reflexive]
 
 ##### Possessive #####
 

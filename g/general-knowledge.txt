@@ -139,7 +139,7 @@ uncles
 aunts
 in-laws
 
-*gaming
+* gaming
 [card game]
 [video game]
 

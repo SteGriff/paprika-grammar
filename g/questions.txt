@@ -31,28 +31,80 @@ why
 
 # ---- Question types ----
 
+# ---- COULD ----
+
 * could q
 [it/this/this guy] be any worse
+this be [it/the final straw/the last nail in the coffin]
+you [get/buy/find] me [a] [/nice /good ][latte/green tea/za slice/dog/yam/clam/lawyer/birthday card]
+[!fairly recent year]this be the most [important/unimportant/useless/ignorable/disgusting] [discovery/revelation] [of [fairly recent year]/ever/of all time/this week/yet][?/??] [?find out later]
+
+# I excluded some years which were deemed "unfunny"
+* fairly recent year
+20[01/02/03/04/05/06/09/12/16/17/18]
+
+* find out later
+find out later[/ or don't]
+find out after [the break/this short break/a word from our sponsors]
+find out in [9/13/16/23] [awful/banal] [tweets/hours/installments]
+find out after [9/13/16/23] more [awful/banal] [tweets/hours]
+you [decide/figure out/tell me]
+nobody [knows/cares/gives a hoot/is watching/is listening][/ anyway]
+it [doesn't matter/makes no difference][/ to anyone/ anymore/ anyway/ right now]
+
+# ---- CAN ----
 
 * can q
 it [think/blend]
 [it/they] [speak human/communicate with humans/feel pain/go away now/still see us/see through walls/still hear us]
+we [/all ]get along
+we [/all ]get together for [gathering]
+
+# Get together for... a party, for thanksgiving, for bowling, for dungeons and dragons
+* gathering
+[a/the] [/trailer /hummus /falafel /vegan /craft beer ]party
+[thanksgiving/christmas/hannukah]
+[activity]
+
+* activity
+[weekending]
+some [gaming]
+
+# ---- WHAT ----
 
 * what q
 does it [eat/weigh/do all day]
 does it [think/believe] about [belief subject]
-does this [mean/
-is it [doing/]
+does this [mean/do]
+is it [doing/trying to do/for/here for]
 
 * belief subject
 [taxes/marxism/democracy/aliens/ghosts/walt disney]
 the [origin/provenance] of [the lion king/will ferrel/microwave pizza]
+the [terminator/ghostbusters/alien/predator] [films/series]
+
+# ---- HOW ----
 
 * how q
 did this happen
+can we fix the [hot tub/economy/environment/oscars/big hole we made/government/planet/election]
+did we not notice [thing to notice] [before/earlier]
+exactly do you [plan/expect/hope] to get to [the moon/mars/space station delta/moon base 4/madagascar/area 51] [with hindrance]
+
+* hindrance
+with that [attitude/face on]
+with that [lame/poor] excuse for [a] [go-kart/space ship/rocket launcher/propulsion system]
+without a [proper/quality] [wig/moustache]
+
+* thing to notice
+this [enormous/terrifying] [sinkhole/fire/mob/lizard/spider/snake]
+[the/this] [/lingering /wandering ][elephant/tiger/polar bear/elk]
+
+
+# ---- WHY ----
 
 * why q
-can't [it/you/they] sit [down/still]
+can't [it/you/they] [sit down/sit still/breathe/]
 is [singular lingerer] still here [in place]
 are [plural lingerer] still here [in place]
 is [singular lingerer] still [doing annoying thing]

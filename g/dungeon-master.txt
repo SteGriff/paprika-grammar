@@ -1,5 +1,7 @@
-
-
+* dungeon room type
+cavern
+forest
+room
 
 # ---- Journey ----
 # Proof of concept for transitions between

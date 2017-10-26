@@ -18,7 +18,6 @@ baby [child]
 *character
 is [somewhat trait]
 [does good things]
-[does bad things]
 
 *trait
 [good trait]
@@ -138,10 +137,6 @@ disappeared for days
 another [animal]
 [a] [infant]
 another [infant]
-
-* opinion
-[?somewhat] [nice gossip opinion]
-[?somewhat] [mean gossip opinion] [?comment tail]
 
 * nice gossip opinion
 good
