@@ -113,7 +113,6 @@
 [you may be wondering tweet]
 [odd question tweet]
 
-# End of New Tweets
 
 * combinable tweet pragma
 [complement tweet]
