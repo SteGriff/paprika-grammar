@@ -89,7 +89,11 @@
 [who ordered tweet]
 [opposing view tweet]
 [dangerous occupation tweet]
+[you may be wondering tweet]
+[odd question tweet]
 [new tweets]
+
+# End of Tweet
 
 * new tweets
 [customer service tweet]
@@ -106,6 +110,10 @@
 [who ordered tweet]
 [opposing view tweet]
 [dangerous occupation tweet]
+[you may be wondering tweet]
+[odd question tweet]
+
+# End of New Tweets
 
 * combinable tweet pragma
 [complement tweet]
@@ -169,6 +177,9 @@
 [anti corporate tweet]
 [who ordered tweet]
 [dangerous occupation tweet]
+[odd question tweet]
+
+# End of Combinable
 
 * once again
 once again,

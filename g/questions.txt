@@ -1,24 +1,30 @@
 #you may be wondering, why can't it breathe?
 #how much does it like pudding?
 
-# ---- Tweets and supporting material ----
-# (Dictionary is at end of file)
+# ---- Tweets ----
 
 * you may be wondering tweet
-[you may be wondering][,/...][/for example, /like, ][/uhm, /uhhh, / ahh, ]"[odd question]?"
+[!question type][you may be wondering][/,/...] [/for example, /for instance, /like, /say, /to yourself... /secretly, ][/uhm, /uhhh, / ahh, ]"[question type] [[question type] q]?" [/../...] [[question type] answer]
 
 * odd question tweet
 [odd question]
 
-* i will answer question tweet
-"[odd question]?" i hear you ask, and I will answer that very soon
+# ---- Supporting material ----
 
 * you may be wondering
-[you/they] [may/might] be [wondering/thinking/pondering]
-[you/they] [may/might] [wonder/think/ponder]
+[you/they] [may/might] be [wondering/thinking/pondering/asking yourself]
+[you/they] [may/might] [wonder/think/ponder/ask/ask me]
 
 * odd question
 [question type] [[question type] q]
+
+* yes no answer
+[well, /actually, /honestly, /truly, /the answer is /i say /the concensus is /the people say /if you ask me, ][yes/no]
+[categorical answer]
+
+* categorical answer
+[not so much/unlikely/very much so/for sure/definitely/its unclear/reports vary/opinions vary/our experts disagree/no one knows/unknown]
+[find out later]
 
 # ---- Master category switches ----
 
@@ -29,15 +35,31 @@ what
 how
 why
 
-# ---- Question types ----
+# ---- Question and answer types ----
 
 # ---- COULD ----
 
 * could q
-[it/this/this guy] be any worse
+[it/this/this guy] be any [worse]
 this be [it/the final straw/the last nail in the coffin]
 you [get/buy/find] me [a] [/nice /good ][latte/green tea/za slice/dog/yam/clam/lawyer/birthday card]
-[!fairly recent year]this be the most [important/unimportant/useless/ignorable/disgusting] [discovery/revelation] [of [fairly recent year]/ever/of all time/this week/yet][?/??] [?find out later]
+[!fairly recent year]this be the most [important/unimportant/useless/ignorable/disgusting] [discovery/revelation] [of [fairly recent year]/ever/of all time/this week/yet][?/??]
+we get [more for our money]
+
+* could answer
+[yes no answer]
+
+* worse
+worse
+more dangerous
+lamer
+less funny
+more annoying
+
+* more for our money
+[4/5/6/7/8/9] for the price of [1/2/3]
+[better value/more bang for our buck/a better deal elsewhere]
+[1 free/freebies/free stuff/a special deal] with [the first purchase/no commitment/no credit check]
 
 # I excluded some years which were deemed "unfunny"
 * fairly recent year
@@ -65,14 +87,20 @@ it [doesn't matter/makes no difference][/ to anyone/ anymore/ anyway/ right now]
 # ---- CAN ----
 
 * can q
-it [think/blend]
-[it/they] [speak human/communicate with humans/feel pain/go away now/still see us/see through walls/still hear us]
+it [think/think for itself/blend/move any faster/move any slower]
+[it/they] [speak human/communicate with humans/feel pain/go away now/still see us/see through walls/still hear us/breathe our air/sense our fear]
 we [/all ]get along
 we [/all ]get together for [gathering]
+i get around [the rate limit/it/these rules/the law]
+i [do grand plan]
+i [do grand plan] [with hindrance]
+
+* can answer
+[yes no answer]
 
 # Get together for... a party, for thanksgiving, for bowling, for dungeons and dragons
 * gathering
-[a/the] [/trailer /hummus /falafel /vegan /craft beer ]party
+[a/the] [/trailer /hummus /falafel /vegan /craft beer /hipster coffee ]party
 [thanksgiving/christmas/hannukah]
 [activity]
 
@@ -88,6 +116,9 @@ does it [think/believe] about [belief subject]
 does this [mean/do]
 is it [doing/trying to do/for/here for]
 
+* what answer
+[categorical answer]
+
 * belief subject
 [taxes/marxism/democracy/aliens/ghosts/walt disney]
 the [origin/provenance] of [the lion king/will ferrel/microwave pizza]
@@ -99,12 +130,21 @@ the [terminator/ghostbusters/alien/predator] [films/series]
 did this happen
 can we fix the [hot tub/economy/environment/oscars/big hole we made/government/planet/election]
 did we not notice [thing to notice] [before/earlier]
-exactly do you [plan/expect/hope] to get to [the moon/mars/space station delta/moon base 4/madagascar/area 51] [with hindrance]
+exactly do you [plan/expect/hope] to [do grand plan] [with hindrance]
+
+* do grand plan
+get to [the moon/mars/space station delta/moon base 4/madagascar/area 51]
+[escape their clutches/foil their plan/defeat red skull/make a blockbuster/win the nobel prize]
+[revolutionise/disrupt/reinvent] [the media/big pharma/big tobacco/the toothpaste industry/the web]
+
+* how answer
+[categorical answer]
 
 * with hindrance
 with that [attitude/face on]
 with that [lame/poor] excuse for [a] [go-kart/space ship/rocket launcher/propulsion system]
 without a [proper/quality] [wig/moustache]
+with only one [dog/bagpipe/leopard/outfit/minion/dollar/death ray/doomsday device/nuclear reactor/kidney/lung/eye]
 
 * thing to notice
 this [enormous/terrifying] [sinkhole/fire/mob/lizard/spider/snake]
@@ -119,10 +159,34 @@ is [singular lingerer] still here [in place]
 are [plural lingerer] still here [in place]
 is [singular lingerer] still [doing annoying thing]
 are [plural lingerer] still [doing annoying thing]
+is it getting [worse]
+am i so [quality]
+do people [do people thing]
+
+* why answer
+[categorical answer]
+
+* quality
+[quick/slow]
+[good/bad] at this
+broke
+[repetitive/annoying/boring]
+[well liked/much disliked]
+[loved/hated]
+
+* do people thing
+keep shooting at my car
+keep banning me
+fight so much
+hate robots
+keep ripping me off
 
 * singular lingerer
 will ferrel
 all this spaghetti
+bill murray
+the guy from west wing
+this cosplay guy
 
 * plural lingerer
 pentatonix
