@@ -154,14 +154,18 @@ this [enormous/terrifying] [sinkhole/fire/mob/lizard/spider/snake]
 # ---- WHY ----
 
 * why q
-can't [it/you/they] [sit down/sit still/breathe/]
+can't [it/you/they] [sit down/sit still/breathe/stop]
 is [singular lingerer] still here [in place]
 are [plural lingerer] still here [in place]
 is [singular lingerer] still [doing annoying thing]
 are [plural lingerer] still [doing annoying thing]
 is it getting [worse]
 am i so [quality]
-do people [do people thing]
+are we [waiting/failing]
+don't i just [stop/sit/wait/lie/rest] here a [moment/while]
+can't i [do it/stop/think straight]
+do [group] [do people thing]
+do [group] [do people thing]
 
 * why answer
 [categorical answer]
@@ -174,12 +178,31 @@ broke
 [well liked/much disliked]
 [loved/hated]
 
+* group
+gangs
+people
+[/all ]my followers
+[/boy /pop /rock ]bands
+lawyers
+accountants
+solicitors
+web designers
+artists
+musicians
+police
+teachers
+neighbours
+ice cream men
+crossing attendants
+shop assistants
+
 * do people thing
-keep shooting at my car
-keep banning me
+[keep shooting/continue to shoot] at my car
+[keep banning/continue to ban] me
 fight so much
 hate robots
 keep ripping me off
+leave [pieces/bits/pictures] of [rocks/metal/wood/birds/fish/rope] [near me/on my doorstep/on my timeline/on my furniture]
 
 * singular lingerer
 will ferrel

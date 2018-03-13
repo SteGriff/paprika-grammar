@@ -17,8 +17,8 @@
 [tweet pragma]
 [tweet pragma]
 [tweet pragma]
-[once again] [tweet pragma]
-[combinable tweet pragma#1] [and/so/...] [combinable tweet pragma#2]
+[tweet pragma]
+[combinable tweet pragma#1] ... [combinable tweet pragma#2]
 
 * tweet pragma
 [complement tweet]
@@ -91,28 +91,11 @@
 [dangerous occupation tweet]
 [you may be wondering tweet]
 [odd question tweet]
-[new tweets]
+[always done thing tweet]
+[time to buy tweet]
+[am i no tweet]
 
 # End of Tweet
-
-* new tweets
-[customer service tweet]
-[forbidden tweet]
-[gizmo tweet]
-[gizmo comment tweet]
-[sell to me tweet]
-[controls tweet]
-[dictates tweet]
-[here comes controller tweet]
-[confusing me tweet]
-[things in the place tweet]
-[anti corporate tweet]
-[who ordered tweet]
-[opposing view tweet]
-[dangerous occupation tweet]
-[you may be wondering tweet]
-[odd question tweet]
-
 
 * combinable tweet pragma
 [complement tweet]
@@ -179,15 +162,6 @@
 [odd question tweet]
 
 # End of Combinable
-
-* once again
-once again,
-i must remind you,
-again,
-remember,
-look,
-once more,
-for the last time,
 
 * alien dialogue tweet
 "[alien dialogue]" -- [an alien/a space alien/a space invader/a space person][//, probably]
