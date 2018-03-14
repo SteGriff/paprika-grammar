@@ -3,6 +3,9 @@
 
 # ---- Tweets ----
 
+* two questions tweet
+[odd question#1], and [odd question#2]
+
 * you may be wondering tweet
 [!question type][you may be wondering][/,/...] [/for example, /for instance, /like, /say, /to yourself... /secretly, ][/uhm, /uhhh, / ahh, ]"[question type] [[question type] q]?" [/../...] [[question type] answer]
 
@@ -120,9 +123,9 @@ is it [doing/trying to do/for/here for]
 [categorical answer]
 
 * belief subject
-[taxes/marxism/democracy/aliens/ghosts/walt disney]
-the [origin/provenance] of [the lion king/will ferrel/microwave pizza]
-the [terminator/ghostbusters/alien/predator] [films/series]
+[taxes/marxism/democracy/aliens/ghosts/walt disney/the means of production/social care/civic design/hydroponics]
+the [origin/provenance] of [the lion king/will ferrel/microwave pizza/pokemon/digimon/tamagotchis/sliced bread/nuclear power/simcity/computer chips/my fortune/wealth/hydroponics]
+the [terminator/ghostbusters/alien/predator/star trek/police academy/rocky balboa/naked gun/batman] [films/series]
 
 # ---- HOW ----
 
@@ -135,16 +138,16 @@ exactly do you [plan/expect/hope] to [do grand plan] [with hindrance]
 * do grand plan
 get to [the moon/mars/space station delta/moon base 4/madagascar/area 51]
 [escape their clutches/foil their plan/defeat red skull/make a blockbuster/win the nobel prize]
-[revolutionise/disrupt/reinvent] [the media/big pharma/big tobacco/the toothpaste industry/the web]
+[revolutionise/disrupt/reinvent] [the media/big pharma/big tobacco/the toothpaste industry/the web/crypto/bitcoin]
 
 * how answer
 [categorical answer]
 
 * with hindrance
 with that [attitude/face on]
-with that [lame/poor] excuse for [a] [go-kart/space ship/rocket launcher/propulsion system]
-without a [proper/quality] [wig/moustache]
-with only one [dog/bagpipe/leopard/outfit/minion/dollar/death ray/doomsday device/nuclear reactor/kidney/lung/eye]
+with that [lame/poor] excuse for [a] [go-kart/space ship/rocket launcher/propulsion system/supercomputer]
+without a [proper/quality] [wig/moustache/dinner jacket/briefcase/airhorn/camera drone/wristwatch/monkey wrench]
+with only one [dog/bagpipe/leopard/outfit/minion/dollar/death ray/doomsday device/nuclear reactor/kidney/lung/eye/credit card]
 
 * thing to notice
 this [enormous/terrifying] [sinkhole/fire/mob/lizard/spider/snake]
@@ -210,6 +213,10 @@ all this spaghetti
 bill murray
 the guy from west wing
 this cosplay guy
+bill shatner
+the cast of [rent/chicago/cats/parcs and rec]
+this mariachi band
+a protester
 
 * plural lingerer
 pentatonix
@@ -217,6 +224,11 @@ one direction
 these carolers
 all your friends
 our colleagues
+congress
+the cast of [rent/chicago/cats/parcs and rec]
+these ghosts
+skeletons
+protesters
 
 * in place
 on the [/dance]floor
@@ -228,4 +240,4 @@ at my desk
 [/]
 
 * doing annoying thing
-[bothering/talking to] my [boss/cat/fish/dog/mother]
+[bothering/talking to/poking/prodding/provoking] my [boss/cat/fish/dog/mother/baby/pet bird/chickens/therapist/bank manager/mortgage advisor/financial advisor/bodyguard]
